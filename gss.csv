@@ -1,0 +1,861 @@
+ID,Income,Married,Age,Education,Gender,Race,Hispanic,Region,JobCategory,Prestige,Government,Experience,Height,HouseholdSize,Voted
+218,49110,Married,46,16,Male,Other,Not hispanic,Pacific,Construction,49,Private,17,74,4,Voted
+506,91086,Not married,66,18,Male,White,Not hispanic,Pacific,Construction,42,Private,35,74,1,Did not vote
+518,76380,Married,32,13,Male,Black,Not hispanic,Pacific,Construction,33,Private,13,72,4,Did not vote
+985,74437,Not married,49,14,Male,White,Not hispanic,E. nor. central,Construction,35,Private,1,73,1,Voted
+1799,65651,Married,41,14,Male,White,Not hispanic,E. nor. central,Construction,40,Private,19,72,3,Voted
+2388,64653,Married,49,12,Male,White,Not hispanic,E. nor. central,Construction,44,Private,20,68,3,Voted
+348,49892,Married,36,12,Male,White,Not hispanic,E. nor. central,Construction,46,Private,7,71,2,Did not vote
+1099,49892,Married,36,15,Male,Other,Not hispanic,South atlantic,Construction,38,Private,3,64,5,Did not vote
+1882,49892,Not married,64,12,Male,White,Not hispanic,E. nor. central,Construction,44,Private,42,73,2,Did not vote
+1484,49886,Married,49,16,Male,White,Not hispanic,Middle atlantic,Construction,43,Private,10,72,3,Voted
+1644,49886,Married,58,12,Male,White,Not hispanic,South atlantic,Construction,49,Private,13,70,2,Did not vote
+2087,49885,Married,32,9,Male,Black,Not hispanic,Mountain,Construction,44,Private,1,69,2,Did not vote
+2480,49885,Married,53,14,Male,White,Not hispanic,South atlantic,Construction,33,Private,1,73,2,Voted
+1908,49468,Married,43,12,Male,Black,Not hispanic,E. nor. central,Construction,44,Private,21,68,4,Voted
+526,46160,Married,50,10,Male,White,Not hispanic,Pacific,Construction,42,Private,7,71,3,Did not vote
+899,45884,Not married,43,16,Female,Black,Not hispanic,Mountain,Construction,43,Private,5,67,2,Voted
+2008,45419,Not married,45,11,Male,White,Hispanic,W. sou. central,Construction,38,Private,0,65,1,Did not vote
+1635,45109,Married,54,12,Male,White,Not hispanic,South atlantic,Construction,56,Private,10,70,2,Voted
+386,42936,Married,33,12,Male,Other,Hispanic,South atlantic,Construction,45,Private,0,63,3,Did not vote
+252,42380,Married,72,16,Male,White,Not hispanic,Pacific,Construction,40,Private,45,65,2,Voted
+1478,41702,Not married,43,14,Male,White,Not hispanic,Middle atlantic,Construction,43,Private,1,74,3,Voted
+1812,40869,Married,40,14,Male,White,Not hispanic,E. nor. central,Construction,43,Private,11,73,5,Voted
+988,40748,Married,63,11,Male,White,Not hispanic,E. nor. central,Construction,40,Private,0,70,3,Did not vote
+1030,40564,Not married,55,14,Male,White,Not hispanic,W. nor. central,Construction,40,Private,10,70,1,Voted
+38,40228,Not married,31,14,Male,White,Hispanic,Middle atlantic,Construction,45,Private,2,67,4,Did not vote
+619,39657,Not married,26,12,Male,White,Not hispanic,Middle atlantic,Construction,45,Private,2,75,5,Voted
+2105,39115,Married,56,9,Male,White,Hispanic,Pacific,Construction,47,Private,30,70,4,Voted
+1807,38085,Married,54,16,Male,White,Not hispanic,E. nor. central,Construction,40,Private,6,72,3,Voted
+2464,36552,Married,40,16,Male,Black,Not hispanic,E. sou. central,Construction,49,Private,12,70,6,Voted
+944,36098,Not married,42,12,Male,Other,Hispanic,Pacific,Construction,38,Private,2,71,3,Did not vote
+1362,36078,Not married,44,11,Male,White,Not hispanic,E. sou. central,Construction,60,Private,7,72,3,Did not vote
+2405,35989,Married,38,18,Male,White,Not hispanic,E. nor. central,Construction,45,Government,0,69,3,Did not vote
+909,34758,Not married,32,14,Female,Other,Not hispanic,Mountain,Construction,41,Government,2,62,3,Did not vote
+1965,33764,Not married,56,9,Male,Black,Not hispanic,W. sou. central,Construction,42,Private,18,63,4,Did not vote
+871,31553,Married,53,15,Male,White,Not hispanic,Mountain,Construction,49,Private,2,70,3,Voted
+613,31384,Not married,47,13,Male,White,Not hispanic,Middle atlantic,Construction,40,Private,24,72,1,Did not vote
+810,30819,Not married,54,8,Male,Other,Hispanic,E. nor. central,Construction,39,Private,3,67,1,Did not vote
+2542,30007,Not married,27,13,Male,White,Not hispanic,New england,Construction,40,Private,4,68,2,Did not vote
+1893,28244,Not married,37,14,Male,White,Not hispanic,E. nor. central,Construction,33,Private,9,72,1,Did not vote
+1711,27170,Not married,59,13,Male,White,Not hispanic,E. sou. central,Construction,45,Private,4,68,1,Voted
+161,26459,Married,54,10,Male,Other,Hispanic,Middle atlantic,Construction,45,Private,25,70,3,Voted
+1440,26064,Married,27,12,Male,White,Not hispanic,Middle atlantic,Construction,48,Government,1,68,3,Voted
+1788,25805,Married,51,13,Male,Black,Not hispanic,South atlantic,Construction,33,Private,7,68,3,Voted
+50,24964,Married,32,14,Male,Other,Hispanic,Middle atlantic,Construction,28,Private,4,66,3,Did not vote
+509,24904,Married,36,9,Male,Other,Hispanic,Pacific,Construction,40,Private,3,65,5,Did not vote
+1502,24865,Married,53,12,Male,White,Not hispanic,South atlantic,Construction,45,Private,13,73,3,Voted
+2227,24647,Not married,32,12,Female,White,Not hispanic,Mountain,Construction,56,Private,0,67,2,Voted
+1379,24489,Married,58,12,Male,White,Not hispanic,New england,Construction,35,Private,18,72,2,Did not vote
+1255,24253,Not married,50,12,Male,White,Not hispanic,E. nor. central,Construction,28,Government,3,69,2,Did not vote
+2054,24246,Not married,36,11,Male,White,Hispanic,Mountain,Construction,49,Private,2,68,1,Did not vote
+44,24239,Not married,26,14,Male,White,Not hispanic,Middle atlantic,Construction,45,Private,0,76,3,Did not vote
+2404,22729,Not married,24,12,Male,White,Not hispanic,E. nor. central,Construction,43,Private,5,74,2,Did not vote
+1254,21360,Married,55,9,Male,White,Not hispanic,E. nor. central,Construction,40,Private,15,70,1,Did not vote
+2456,20872,Married,52,12,Female,Black,Not hispanic,E. sou. central,Construction,49,Private,11,65,3,Voted
+282,20431,Married,30,13,Male,White,Hispanic,Pacific,Construction,36,Private,9,67,4,Did not vote
+1169,19818,Not married,48,10,Male,White,Not hispanic,South atlantic,Construction,28,Private,1,72,1,Voted
+1494,19562,Married,59,10,Male,White,Not hispanic,South atlantic,Construction,44,Private,17,71,2,Did not vote
+2299,18381,Not married,40,12,Male,White,Not hispanic,W. sou. central,Construction,35,Private,5,70,1,Did not vote
+520,18065,Not married,31,9,Male,Other,Hispanic,Pacific,Construction,27,Private,3,69,4,Did not vote
+1007,17725,Married,56,12,Male,White,Not hispanic,E. nor. central,Construction,28,Private,27,72,2,Voted
+817,17088,Not married,25,13,Male,Black,Not hispanic,E. nor. central,Construction,40,Private,1,61,3,Voted
+2104,16479,Not married,39,14,Male,White,Hispanic,Pacific,Construction,45,Private,1,71,1,Did not vote
+1570,16156,Not married,44,14,Male,White,Not hispanic,South atlantic,Construction,28,Private,3,69,1,Did not vote
+143,15883,Not married,21,14,Male,White,Not hispanic,Middle atlantic,Construction,45,Private,1,67,2,Voted
+1976,15356,Not married,44,11,Male,Black,Not hispanic,W. sou. central,Construction,33,Private,2,73,2,Voted
+1821,14470,Not married,36,12,Female,White,Not hispanic,E. nor. central,Construction,39,Private,3,67,2,Voted
+778,14108,Not married,40,15,Male,Other,Hispanic,South atlantic,Construction,28,Private,2,64,2,Did not vote
+2152,13847,Married,48,12,Male,White,Not hispanic,Pacific,Construction,31,Private,0,71,2,Did not vote
+750,13129,Married,45,11,Male,White,Hispanic,South atlantic,Construction,35,Private,5,66,4,Did not vote
+1366,11447,Not married,38,5,Male,Other,Hispanic,E. sou. central,Construction,28,Private,3,62,1,Did not vote
+2541,9568,Not married,24,14,Male,White,Not hispanic,New england,Construction,39,Private,0,68,3,Voted
+1461,9228,Not married,30,10,Male,White,Not hispanic,Middle atlantic,Construction,28,Private,0,71,5,Did not vote
+1551,8571,Married,62,12,Male,White,Not hispanic,South atlantic,Construction,44,Private,37,66,2,Voted
+2225,7638,Not married,26,11,Male,White,Not hispanic,Mountain,Construction,44,Private,20,76,1,Did not vote
+1557,4626,Not married,49,11,Male,Black,Not hispanic,South atlantic,Construction,28,Private,1,66,1,Voted
+359,4350,Not married,35,11,Female,White,Not hispanic,E. nor. central,Construction,39,Private,0,67,3,Did not vote
+1993,3989,Not married,20,12,Male,White,Hispanic,W. sou. central,Construction,49,Private,0,66,3,Did not vote
+1848,3257,Not married,43,18,Female,White,Not hispanic,E. nor. central,Construction,44,Private,0,64,3,Did not vote
+184,2792,Not married,46,12,Male,White,Hispanic,Pacific,Construction,40,Private,0,70,2,Did not vote
+855,2400,Married,29,13,Male,White,Not hispanic,Pacific,Construction,44,Private,5,75,3,Did not vote
+2261,613,Not married,44,12,Male,White,Not hispanic,W. sou. central,Construction,43,Private,8,71,1,Voted
+782,201999,Not married,42,12,Male,White,Not hispanic,South atlantic,Labor,42,Private,10,69,1,Voted
+1605,170785,Not married,43,19,Male,Black,Not hispanic,South atlantic,Labor,35,Private,4,75,2,Voted
+586,148695,Not married,47,12,Male,Black,Not hispanic,W. sou. central,Labor,40,Private,4,72,1,Voted
+2359,107251,Not married,49,12,Male,White,Not hispanic,W. nor. central,Labor,35,Private,0,69,1,Did not vote
+545,96684,Married,33,12,Male,White,Not hispanic,Pacific,Labor,32,Private,8,71,3,Did not vote
+1737,93479,Not married,40,16,Male,White,Not hispanic,E. sou. central,Labor,47,Private,11,69,3,Voted
+654,87319,Not married,51,12,Male,Other,Hispanic,Middle atlantic,Labor,35,Private,13,72,1,Voted
+157,81970,Married,48,14,Male,White,Not hispanic,Middle atlantic,Labor,44,Government,27,72,3,Voted
+1922,73858,Married,58,13,Female,White,Not hispanic,W. nor. central,Labor,35,Private,34,64,2,Voted
+932,72871,Not married,56,12,Male,White,Not hispanic,E. nor. central,Labor,35,Private,0,68,1,Voted
+2424,65647,Married,48,11,Male,White,Not hispanic,South atlantic,Labor,40,Private,0,70,4,Did not vote
+392,61239,Not married,55,12,Male,Black,Not hispanic,South atlantic,Labor,35,Private,31,74,1,Voted
+1162,49894,Not married,52,14,Male,White,Not hispanic,South atlantic,Labor,35,Private,10,71,1,Voted
+125,49892,Not married,32,14,Male,White,Not hispanic,Middle atlantic,Labor,29,Private,6,69,1,Voted
+1705,49891,Married,51,11,Male,White,Not hispanic,E. sou. central,Labor,29,Private,5,70,3,Voted
+1697,49890,Not married,56,12,Male,White,Not hispanic,E. sou. central,Labor,35,Private,3,72,1,Did not vote
+48,49889,Married,59,11,Male,White,Not hispanic,Middle atlantic,Labor,35,Private,33,70,2,Voted
+2421,49889,Not married,44,12,Male,White,Not hispanic,South atlantic,Labor,35,Private,2,70,1,Did not vote
+1348,49366,Married,36,14,Male,White,Not hispanic,Mountain,Labor,29,Private,12,69,5,Did not vote
+2370,49064,Not married,48,12,Male,White,Not hispanic,W. nor. central,Labor,35,Private,0,72,1,Did not vote
+2398,47348,Not married,28,12,Male,White,Not hispanic,E. nor. central,Labor,35,Private,2,72,3,Did not vote
+1895,47048,Not married,42,12,Male,Other,Not hispanic,E. nor. central,Labor,25,Private,13,75,2,Voted
+1715,45593,Not married,30,12,Female,Black,Not hispanic,E. sou. central,Labor,35,Private,2,66,1,Voted
+2375,45275,Married,50,12,Male,White,Not hispanic,E. nor. central,Labor,35,Private,0,70,2,Voted
+1779,44341,Married,32,16,Male,White,Not hispanic,South atlantic,Labor,35,Private,0,75,3,Voted
+245,43746,Married,58,2,Male,Other,Hispanic,Pacific,Labor,37,Private,20,71,5,Did not vote
+1001,43744,Not married,35,13,Male,White,Not hispanic,E. nor. central,Labor,32,Private,10,72,2,Did not vote
+1956,42326,Married,33,14,Male,White,Not hispanic,W. nor. central,Labor,25,Private,7,68,3,Did not vote
+1237,41901,Married,44,15,Male,Black,Not hispanic,E. nor. central,Labor,35,Private,17,68,6,Voted
+1706,40491,Married,47,12,Male,White,Not hispanic,E. sou. central,Labor,29,Private,17,72,4,Voted
+2459,40014,Married,26,13,Female,Black,Not hispanic,E. sou. central,Labor,25,Private,3,63,5,Did not vote
+2086,39973,Not married,48,12,Male,White,Not hispanic,Mountain,Labor,35,Private,9,71,2,Voted
+2118,39453,Married,37,13,Male,Other,Hispanic,Pacific,Labor,35,Government,7,58,2,Did not vote
+1548,39289,Married,57,14,Male,White,Not hispanic,South atlantic,Labor,25,Private,3,71,2,Voted
+1506,39103,Not married,46,13,Female,White,Not hispanic,South atlantic,Labor,32,Private,0,65,2,Voted
+2274,38824,Married,56,13,Male,White,Not hispanic,W. sou. central,Labor,35,Private,30,78,4,Voted
+682,36856,Not married,32,12,Male,White,Hispanic,W. sou. central,Labor,22,Private,5,72,1,Did not vote
+1727,36020,Not married,30,12,Female,Black,Not hispanic,E. sou. central,Labor,24,Government,10,61,1,Did not vote
+685,35897,Married,60,12,Male,White,Hispanic,W. sou. central,Labor,35,Private,14,70,3,Did not vote
+1888,35775,Married,44,16,Male,White,Not hispanic,E. nor. central,Labor,37,Government,19,71,2,Voted
+2535,35282,Married,62,12,Male,White,Not hispanic,New england,Labor,32,Private,9,71,3,Voted
+2540,35175,Not married,56,12,Male,White,Not hispanic,New england,Labor,27,Private,26,72,1,Voted
+1354,35070,Married,49,12,Male,White,Not hispanic,E. sou. central,Labor,35,Private,4,73,2,Did not vote
+1457,33819,Married,39,12,Male,White,Not hispanic,Middle atlantic,Labor,44,Private,15,70,4,Voted
+1665,32924,Married,47,12,Male,White,Hispanic,South atlantic,Labor,24,Government,6,66,3,Did not vote
+1555,30684,Not married,52,13,Male,White,Not hispanic,South atlantic,Labor,21,Private,7,68,2,Voted
+1365,30470,Not married,49,12,Male,White,Not hispanic,E. sou. central,Labor,35,Private,0,70,1,Voted
+480,28323,Married,63,13,Male,White,Not hispanic,New england,Labor,42,Government,12,66,2,Did not vote
+674,27868,Married,40,9,Male,White,Hispanic,W. sou. central,Labor,24,Private,8,70,6,Did not vote
+1910,27845,Married,58,12,Female,White,Not hispanic,E. nor. central,Labor,27,Private,24,64,2,Voted
+1394,27706,Not married,71,10,Female,White,Not hispanic,New england,Labor,21,Private,22,65,2,Did not vote
+1336,27629,Not married,41,14,Male,Other,Hispanic,Mountain,Labor,29,Private,5,71,1,Did not vote
+2515,27447,Not married,46,12,Male,White,Not hispanic,South atlantic,Labor,35,Private,2,71,2,Voted
+209,26900,Married,35,6,Male,White,Hispanic,Pacific,Labor,23,Private,10,66,4,Did not vote
+1809,26517,Not married,42,11,Male,White,Not hispanic,E. nor. central,Labor,37,Private,4,72,2,Did not vote
+2402,26044,Married,56,11,Female,White,Not hispanic,E. nor. central,Labor,24,Government,10,63,2,Voted
+1387,25631,Not married,52,9,Male,White,Not hispanic,New england,Labor,24,Private,2,73,3,Voted
+1242,24824,Not married,60,13,Male,Black,Not hispanic,E. nor. central,Labor,35,Private,7,75,1,Voted
+1585,24650,Married,45,11,Male,Black,Not hispanic,South atlantic,Labor,42,Government,20,74,2,Voted
+686,24617,Not married,59,9,Female,White,Hispanic,W. sou. central,Labor,25,Private,25,62,1,Did not vote
+602,24499,Married,53,14,Female,Black,Not hispanic,W. sou. central,Labor,35,Government,5,66,2,Voted
+2278,23267,Married,30,14,Male,White,Not hispanic,W. sou. central,Labor,51,Private,8,69,4,Voted
+1014,23022,Not married,53,11,Male,Other,Not hispanic,E. nor. central,Labor,35,Private,6,66,2,Did not vote
+274,22996,Not married,48,12,Male,Black,Not hispanic,Pacific,Labor,24,Government,4,74,4,Voted
+1936,22902,Not married,34,15,Male,Other,Not hispanic,W. nor. central,Labor,24,Private,2,64,6,Did not vote
+723,22551,Married,37,6,Male,Other,Hispanic,South atlantic,Labor,34,Private,0,63,4,Did not vote
+1244,22369,Not married,62,3,Male,White,Hispanic,E. nor. central,Labor,25,Private,6,67,2,Did not vote
+2505,22080,Not married,53,12,Male,White,Not hispanic,South atlantic,Labor,25,Private,7,72,1,Did not vote
+2085,21474,Not married,65,17,Male,White,Not hispanic,Mountain,Labor,24,Private,8,68,1,Did not vote
+684,21016,Not married,57,12,Male,White,Hispanic,W. sou. central,Labor,16,Private,5,58,1,Did not vote
+1694,20769,Married,62,8,Male,White,Not hispanic,E. sou. central,Labor,42,Private,4,72,2,Did not vote
+27,19872,Not married,35,13,Male,White,Not hispanic,Middle atlantic,Labor,37,Private,3,70,1,Voted
+2366,18495,Married,60,14,Male,White,Not hispanic,W. nor. central,Labor,25,Private,5,72,2,Did not vote
+1543,18032,Not married,31,12,Male,White,Not hispanic,South atlantic,Labor,39,Private,4,73,2,Did not vote
+19,17514,Married,51,14,Male,White,Hispanic,New england,Labor,35,Private,0,68,2,Voted
+2264,17028,Married,58,8,Male,White,Hispanic,W. sou. central,Labor,25,Private,2,71,2,Did not vote
+626,16521,Not married,70,12,Female,White,Not hispanic,Middle atlantic,Labor,29,Private,11,64,1,Voted
+2383,16518,Not married,24,17,Female,White,Not hispanic,W. nor. central,Labor,16,Private,0,65,2,Did not vote
+2469,16436,Not married,20,12,Male,Black,Not hispanic,E. sou. central,Labor,24,Private,0,68,2,Did not vote
+370,16344,Married,66,12,Male,White,Not hispanic,South atlantic,Labor,47,Private,7,67,2,Did not vote
+911,16270,Not married,65,13,Female,Other,Not hispanic,Mountain,Labor,25,Government,10,66,3,Did not vote
+206,16129,Married,50,9,Male,White,Hispanic,Pacific,Labor,25,Private,13,67,7,Did not vote
+1027,16099,Not married,39,14,Female,White,Not hispanic,W. nor. central,Labor,25,Private,6,59,3,Voted
+1281,15921,Married,49,12,Male,White,Hispanic,Mountain,Labor,37,Private,3,64,2,Voted
+215,15806,Married,35,11,Female,White,Hispanic,Pacific,Labor,25,Private,9,59,6,Did not vote
+1288,15794,Not married,26,12,Female,Other,Hispanic,Mountain,Labor,25,Private,1,66,2,Did not vote
+1464,14825,Not married,46,9,Male,Other,Hispanic,Middle atlantic,Labor,36,Private,3,64,1,Did not vote
+2453,14759,Not married,62,0,Male,Other,Hispanic,E. sou. central,Labor,27,Private,0,63,6,Did not vote
+1528,14489,Not married,28,9,Male,White,Not hispanic,South atlantic,Labor,21,Private,5,73,1,Did not vote
+98,14336,Not married,37,12,Female,Black,Not hispanic,Middle atlantic,Labor,35,Private,2,63,2,Did not vote
+534,13616,Not married,41,6,Female,White,Hispanic,Pacific,Labor,32,Private,3,61,7,Did not vote
+2107,13405,Married,29,6,Male,Other,Hispanic,Pacific,Labor,27,Private,5,64,6,Did not vote
+1520,12293,Not married,36,10,Female,Black,Not hispanic,South atlantic,Labor,25,Private,15,62,3,Did not vote
+1226,12097,Not married,32,12,Male,White,Hispanic,W. sou. central,Labor,37,Private,12,70,3,Did not vote
+112,12006,Not married,26,12,Male,Other,Hispanic,Middle atlantic,Labor,25,Private,0,58,4,Did not vote
+1000,11368,Not married,56,17,Female,White,Not hispanic,E. nor. central,Labor,21,Private,5,69,4,Did not vote
+1177,11249,Not married,45,14,Female,White,Not hispanic,South atlantic,Labor,24,Government,17,68,5,Did not vote
+818,10917,Married,56,12,Female,White,Not hispanic,E. nor. central,Labor,29,Private,1,61,2,Did not vote
+1832,10575,Married,30,17,Male,White,Not hispanic,E. nor. central,Labor,31,Private,4,72,2,Voted
+765,10479,Not married,53,12,Female,White,Hispanic,South atlantic,Labor,26,Private,7,63,3,Did not vote
+941,10471,Married,24,12,Male,White,Hispanic,Pacific,Labor,29,Private,0,70,2,Voted
+1041,10069,Married,57,13,Female,White,Not hispanic,W. nor. central,Labor,35,Private,29,64,3,Voted
+1108,9290,Married,52,13,Male,White,Not hispanic,Pacific,Labor,29,Private,20,74,5,Voted
+1918,9087,Married,30,17,Female,White,Not hispanic,W. nor. central,Labor,35,Private,0,67,5,Voted
+1066,8937,Married,59,6,Male,Other,Hispanic,South atlantic,Labor,37,Private,0,64,2,Did not vote
+826,8908,Not married,52,8,Female,White,Not hispanic,E. nor. central,Labor,24,Private,3,67,2,Did not vote
+2410,8510,Married,30,10,Female,White,Not hispanic,E. nor. central,Labor,25,Private,1,64,3,Did not vote
+1879,8503,Not married,46,12,Female,White,Not hispanic,E. nor. central,Labor,22,Private,10,69,2,Did not vote
+81,7852,Married,51,11,Male,Other,Hispanic,Middle atlantic,Labor,25,Private,3,72,2,Voted
+1949,7464,Married,29,12,Male,White,Not hispanic,W. nor. central,Labor,24,Private,0,72,5,Did not vote
+1752,7387,Not married,41,12,Male,Other,Hispanic,E. sou. central,Labor,35,Private,0,71,1,Did not vote
+2200,5559,Not married,21,12,Male,Other,Hispanic,Pacific,Labor,35,Private,0,67,5,Did not vote
+1168,5402,Married,42,11,Female,Black,Not hispanic,South atlantic,Labor,35,Government,0,62,2,Voted
+821,5360,Not married,27,14,Male,White,Not hispanic,E. nor. central,Labor,25,Private,1,71,3,Did not vote
+798,4773,Not married,26,15,Male,Black,Not hispanic,E. nor. central,Labor,20,Private,0,69,2,Did not vote
+1415,3405,Not married,46,9,Male,White,Not hispanic,Middle atlantic,Labor,25,Private,0,69,2,Did not vote
+2222,3180,Not married,35,12,Female,Other,Not hispanic,Mountain,Labor,35,Private,0,61,2,Did not vote
+706,2737,Not married,58,7,Male,White,Not hispanic,South atlantic,Labor,27,Private,4,69,1,Did not vote
+2536,2075,Not married,40,14,Male,White,Not hispanic,New england,Labor,24,Private,0,71,1,Voted
+1767,1741,Not married,52,12,Male,White,Not hispanic,E. nor. central,Labor,24,Private,0,70,2,Did not vote
+2355,1026,Not married,74,12,Female,White,Not hispanic,W. nor. central,Labor,21,Government,14,61,1,Voted
+963,969,Not married,59,14,Male,White,Not hispanic,Mountain,Labor,29,Private,0,72,2,Voted
+1883,255369,Married,61,12,Male,White,Not hispanic,E. nor. central,Management,39,Private,35,69,2,Voted
+690,243117,Not married,65,18,Male,White,Hispanic,W. sou. central,Management,52,Private,9,69,1,Voted
+1160,239535,Married,55,12,Male,White,Not hispanic,South atlantic,Management,53,Private,7,72,5,Voted
+242,220219,Not married,51,18,Female,Other,Hispanic,Pacific,Management,64,Private,3,62,1,Did not vote
+2160,204754,Married,65,12,Male,White,Not hispanic,Pacific,Management,39,Private,30,71,2,Voted
+362,202962,Not married,40,12,Male,White,Not hispanic,E. nor. central,Management,39,Private,0,74,1,Voted
+1770,189929,Married,53,20,Male,White,Not hispanic,South atlantic,Management,72,Private,21,69,2,Voted
+971,178359,Married,49,16,Female,White,Not hispanic,Mountain,Management,60,Private,20,68,3,Voted
+436,174507,Married,56,18,Male,White,Not hispanic,South atlantic,Management,59,Government,30,67,2,Voted
+435,173897,Married,41,11,Male,White,Not hispanic,South atlantic,Management,53,Private,17,69,2,Voted
+1734,170525,Married,60,18,Male,White,Not hispanic,E. sou. central,Management,53,Private,20,72,3,Voted
+2039,166848,Married,55,16,Male,White,Not hispanic,W. sou. central,Management,39,Private,7,66,3,Voted
+482,164174,Married,38,17,Male,White,Not hispanic,New england,Management,72,Private,2,73,2,Voted
+377,161625,Married,60,13,Male,White,Not hispanic,South atlantic,Management,50,Private,27,69,3,Voted
+372,158832,Married,67,20,Male,Other,Not hispanic,South atlantic,Management,60,Private,11,63,2,Voted
+369,155295,Married,49,16,Female,White,Not hispanic,South atlantic,Management,53,Private,2,68,5,Voted
+307,126670,Not married,34,19,Female,Black,Not hispanic,E. nor. central,Management,53,Private,13,66,1,Voted
+731,122723,Married,53,16,Male,White,Not hispanic,South atlantic,Management,50,Private,1,68,3,Voted
+734,122596,Married,50,16,Male,White,Not hispanic,South atlantic,Management,53,Private,5,71,2,Voted
+789,107752,Not married,35,20,Male,White,Not hispanic,E. nor. central,Management,72,Private,1,70,1,Voted
+1890,107251,Married,55,13,Male,White,Not hispanic,E. nor. central,Management,50,Private,13,73,1,Voted
+449,106899,Married,60,20,Female,White,Not hispanic,New england,Management,53,Private,13,65,2,Voted
+1303,99480,Not married,53,16,Male,White,Hispanic,E. nor. central,Management,50,Private,22,70,1,Voted
+733,96668,Not married,58,20,Female,Black,Not hispanic,South atlantic,Management,59,Private,10,63,2,Voted
+612,87765,Married,58,15,Male,White,Not hispanic,Middle atlantic,Management,53,Private,37,70,2,Did not vote
+402,85852,Not married,58,12,Male,White,Not hispanic,South atlantic,Management,53,Private,11,67,2,Voted
+346,81398,Not married,47,8,Male,White,Not hispanic,E. nor. central,Management,60,Private,8,72,1,Voted
+1054,80028,Married,62,18,Male,Other,Hispanic,South atlantic,Management,63,Private,35,67,4,Voted
+1912,79945,Married,37,16,Male,White,Not hispanic,E. nor. central,Management,72,Private,6,70,2,Voted
+1297,76724,Married,52,20,Male,White,Not hispanic,Mountain,Management,72,Private,3,70,2,Voted
+1544,73918,Not married,40,16,Male,White,Not hispanic,South atlantic,Management,44,Private,4,70,1,Voted
+1302,72065,Married,43,16,Male,White,Not hispanic,E. nor. central,Management,50,Private,12,71,2,Voted
+991,70608,Married,55,17,Male,White,Not hispanic,E. nor. central,Management,53,Private,6,74,2,Voted
+374,69007,Married,65,15,Male,White,Not hispanic,South atlantic,Management,53,Private,28,68,3,Voted
+305,68634,Not married,43,16,Female,White,Not hispanic,E. nor. central,Management,53,Private,10,67,1,Voted
+2193,68186,Married,55,14,Male,White,Not hispanic,Pacific,Management,44,Private,12,69,3,Voted
+2159,67582,Married,36,18,Male,White,Not hispanic,Pacific,Management,53,Private,7,75,3,Voted
+1350,67056,Married,60,16,Female,White,Not hispanic,Mountain,Management,39,Private,7,66,2,Voted
+924,66178,Married,51,16,Male,White,Not hispanic,W. nor. central,Management,53,Private,25,70,4,Did not vote
+1602,64374,Married,59,12,Female,Black,Not hispanic,South atlantic,Management,39,Government,32,62,2,Voted
+1212,63514,Not married,29,16,Male,White,Not hispanic,W. sou. central,Management,53,Government,4,73,1,Voted
+646,62889,Married,53,14,Male,White,Not hispanic,Middle atlantic,Management,53,Private,10,70,2,Voted
+673,61772,Married,36,18,Female,Black,Not hispanic,W. sou. central,Management,53,Private,3,62,5,Voted
+1,61240,Not married,53,16,Male,White,Not hispanic,New england,Management,53,Private,26,72,1,Did not vote
+1037,49894,Married,30,19,Female,White,Not hispanic,W. nor. central,Management,53,Private,4,61,4,Voted
+1593,49893,Not married,59,16,Female,White,Not hispanic,South atlantic,Management,39,Government,20,63,1,Voted
+2166,49893,Married,65,16,Male,White,Not hispanic,Pacific,Management,72,Private,30,70,2,Voted
+1645,49892,Not married,60,16,Female,White,Not hispanic,South atlantic,Management,52,Private,2,66,2,Voted
+2268,49892,Married,49,14,Male,White,Not hispanic,W. sou. central,Management,39,Government,20,72,3,Did not vote
+234,49891,Married,41,16,Female,White,Hispanic,Pacific,Management,64,Private,7,67,1,Did not vote
+1114,49891,Not married,41,14,Male,White,Not hispanic,Pacific,Management,53,Private,2,72,1,Voted
+1186,49891,Not married,35,14,Male,White,Not hispanic,E. sou. central,Management,53,Private,11,75,1,Did not vote
+1726,49890,Married,52,20,Male,White,Not hispanic,E. sou. central,Management,59,Government,1,70,3,Voted
+1512,49889,Married,65,9,Male,White,Not hispanic,South atlantic,Management,44,Private,40,70,2,Voted
+165,49888,Not married,63,13,Female,White,Not hispanic,New england,Management,60,Government,44,64,1,Voted
+2013,49888,Not married,53,14,Male,White,Not hispanic,W. sou. central,Management,39,Private,18,69,1,Voted
+355,49886,Married,29,18,Male,White,Not hispanic,E. nor. central,Management,60,Private,0,73,2,Did not vote
+191,49885,Not married,37,16,Male,Black,Not hispanic,Pacific,Management,39,Private,5,73,1,Voted
+895,48959,Married,25,18,Male,White,Not hispanic,Mountain,Management,72,Private,0,76,4,Did not vote
+2283,48534,Married,60,12,Female,White,Not hispanic,W. sou. central,Management,53,Private,15,64,2,Voted
+2471,48050,Not married,56,12,Male,White,Not hispanic,E. sou. central,Management,44,Private,17,69,1,Voted
+1453,47172,Not married,56,18,Female,White,Not hispanic,Middle atlantic,Management,54,Private,1,63,2,Did not vote
+567,46642,Married,30,16,Female,White,Not hispanic,W. sou. central,Management,53,Private,5,63,3,Voted
+2269,46521,Married,38,16,Male,White,Not hispanic,W. sou. central,Management,59,Government,2,71,2,Did not vote
+295,44639,Not married,31,10,Male,White,Not hispanic,E. nor. central,Management,45,Private,4,70,1,Did not vote
+556,43779,Not married,43,10,Female,White,Not hispanic,W. sou. central,Management,60,Private,12,72,2,Did not vote
+868,42979,Married,35,18,Male,White,Not hispanic,Pacific,Management,60,Private,4,66,3,Did not vote
+2406,42030,Not married,47,12,Female,White,Not hispanic,E. nor. central,Management,50,Private,16,64,1,Did not vote
+827,41668,Not married,36,14,Female,White,Not hispanic,E. nor. central,Management,39,Private,2,67,2,Voted
+306,41150,Not married,65,16,Male,White,Not hispanic,E. nor. central,Management,39,Private,23,69,1,Voted
+2392,39210,Married,54,16,Female,White,Not hispanic,E. nor. central,Management,53,Private,30,62,2,Voted
+1834,38940,Not married,32,20,Female,White,Not hispanic,E. nor. central,Management,59,Private,2,72,1,Voted
+1699,38283,Not married,69,14,Female,White,Not hispanic,E. sou. central,Management,53,Government,15,62,1,Voted
+1311,38159,Not married,29,16,Male,White,Not hispanic,E. nor. central,Management,52,Private,3,71,1,Voted
+1822,37061,Married,57,16,Female,White,Not hispanic,E. nor. central,Management,50,Private,18,71,2,Voted
+1023,36308,Married,50,12,Female,White,Not hispanic,W. nor. central,Management,64,Private,30,61,3,Voted
+1383,35774,Married,33,16,Female,White,Not hispanic,New england,Management,52,Private,0,63,2,Voted
+2530,35463,Married,53,16,Female,White,Not hispanic,New england,Management,52,Private,0,64,2,Voted
+1766,34082,Not married,52,14,Male,White,Not hispanic,E. nor. central,Management,53,Private,8,70,1,Did not vote
+1241,33051,Married,62,18,Female,Black,Not hispanic,E. nor. central,Management,52,Private,10,70,2,Voted
+2357,32415,Not married,54,12,Female,Other,Not hispanic,W. nor. central,Management,41,Private,22,67,8,Voted
+173,30475,Married,55,14,Male,White,Hispanic,Pacific,Management,53,Private,30,70,3,Voted
+1109,29396,Not married,33,13,Female,Other,Not hispanic,Pacific,Management,53,Private,2,64,3,Voted
+1498,27497,Married,60,14,Female,White,Not hispanic,South atlantic,Management,53,Government,3,63,2,Voted
+2528,27285,Married,54,16,Male,White,Not hispanic,New england,Management,50,Private,7,72,4,Voted
+333,25160,Not married,53,12,Female,White,Not hispanic,E. nor. central,Management,59,Private,13,66,1,Did not vote
+2527,25005,Not married,49,12,Female,White,Not hispanic,New england,Management,39,Government,20,67,3,Voted
+164,24270,Not married,23,14,Male,White,Not hispanic,New england,Management,50,Private,2,68,2,Voted
+1867,24196,Married,53,12,Male,White,Not hispanic,E. nor. central,Management,50,Private,0,70,3,Voted
+2138,23539,Married,27,13,Male,White,Hispanic,Pacific,Management,53,Private,4,73,2,Did not vote
+2128,20282,Not married,53,11,Female,Other,Not hispanic,Pacific,Management,44,Private,13,67,3,Did not vote
+2489,19849,Married,56,13,Female,White,Not hispanic,South atlantic,Management,52,Government,2,64,3,Voted
+2079,19755,Married,53,14,Female,White,Not hispanic,Mountain,Management,39,Private,3,66,2,Voted
+131,18145,Not married,47,13,Male,Black,Not hispanic,Middle atlantic,Management,53,Private,1,73,2,Voted
+1045,16866,Married,54,12,Female,White,Not hispanic,South atlantic,Management,59,Government,15,64,3,Voted
+2460,16425,Married,71,14,Male,White,Not hispanic,E. sou. central,Management,46,Private,20,72,2,Voted
+1476,15334,Married,50,12,Female,White,Hispanic,Middle atlantic,Management,39,Private,12,65,2,Voted
+1827,13124,Not married,42,9,Male,White,Hispanic,E. nor. central,Management,39,Private,10,65,1,Voted
+147,6851,Not married,37,12,Male,White,Not hispanic,Middle atlantic,Management,53,Private,15,72,2,Did not vote
+521,3714,Married,56,16,Female,Other,Not hispanic,Pacific,Management,53,Private,31,59,2,Voted
+2266,179147,Married,48,16,Male,White,Not hispanic,W. sou. central,Office,49,Private,5,74,4,Voted
+1070,133364,Married,51,13,Female,Black,Not hispanic,South atlantic,Office,32,Private,5,67,5,Voted
+172,73769,Not married,45,20,Female,White,Not hispanic,Pacific,Office,36,Private,5,64,1,Voted
+958,49893,Not married,53,16,Male,White,Not hispanic,Mountain,Office,36,Private,23,77,1,Voted
+331,49888,Married,66,15,Male,Other,Hispanic,E. nor. central,Office,31,Private,16,62,2,Voted
+681,49884,Married,32,14,Female,Other,Hispanic,W. sou. central,Office,31,Private,14,62,6,Voted
+256,49465,Married,58,13,Male,White,Hispanic,Pacific,Office,45,Government,12,71,2,Did not vote
+767,47861,Married,75,12,Male,Black,Not hispanic,South atlantic,Office,38,Private,7,71,2,Voted
+529,47572,Not married,60,12,Male,White,Not hispanic,Pacific,Office,25,Private,40,71,1,Did not vote
+849,47530,Not married,56,15,Female,White,Not hispanic,Pacific,Office,45,Government,23,67,3,Did not vote
+149,46528,Not married,37,16,Female,Black,Not hispanic,Middle atlantic,Office,31,Private,14,66,1,Voted
+476,46186,Not married,40,14,Female,White,Not hispanic,New england,Office,29,Private,0,61,2,Did not vote
+89,45256,Not married,25,12,Male,White,Not hispanic,Middle atlantic,Office,31,Private,4,74,4,Voted
+53,44353,Married,29,14,Male,Other,Hispanic,Middle atlantic,Office,31,Private,4,73,2,Voted
+271,43956,Married,43,18,Male,White,Not hispanic,Pacific,Office,25,Private,20,68,4,Did not vote
+729,43905,Not married,53,16,Female,Black,Not hispanic,South atlantic,Office,45,Government,24,66,2,Voted
+220,43620,Not married,41,14,Female,White,Hispanic,Pacific,Office,32,Government,1,66,2,Voted
+544,42392,Married,30,16,Female,White,Not hispanic,Pacific,Office,36,Government,6,67,2,Voted
+1919,42279,Married,57,12,Female,White,Not hispanic,W. nor. central,Office,45,Private,29,63,2,Voted
+1942,41954,Not married,65,15,Female,White,Not hispanic,W. nor. central,Office,38,Private,37,64,2,Voted
+1375,40934,Not married,35,16,Female,White,Not hispanic,E. sou. central,Office,31,Private,7,69,1,Voted
+1877,40532,Not married,57,12,Female,White,Not hispanic,E. nor. central,Office,25,Private,28,63,1,Voted
+1891,40352,Married,46,13,Female,White,Not hispanic,E. nor. central,Office,31,Private,1,69,5,Voted
+32,40104,Not married,61,16,Female,White,Hispanic,Middle atlantic,Office,45,Private,39,64,2,Voted
+1022,40017,Married,50,13,Female,White,Not hispanic,W. nor. central,Office,38,Private,8,67,2,Did not vote
+302,39888,Not married,26,12,Male,Other,Hispanic,E. nor. central,Office,36,Private,7,68,1,Did not vote
+419,39448,Not married,62,13,Female,Black,Not hispanic,South atlantic,Office,32,Private,10,66,1,Voted
+1412,39290,Not married,60,14,Female,White,Not hispanic,Middle atlantic,Office,17,Private,17,63,2,Did not vote
+251,38961,Married,58,16,Female,Other,Not hispanic,Pacific,Office,45,Private,28,63,3,Voted
+1150,35102,Not married,47,19,Female,White,Not hispanic,Middle atlantic,Office,45,Private,5,63,1,Did not vote
+901,34911,Married,39,14,Male,Black,Not hispanic,Mountain,Office,40,Private,6,74,1,Voted
+187,34118,Not married,62,12,Male,White,Hispanic,Pacific,Office,17,Private,25,62,1,Voted
+831,33345,Married,58,16,Male,White,Not hispanic,Pacific,Office,45,Private,10,73,2,Voted
+1410,33150,Not married,33,16,Male,White,Not hispanic,Middle atlantic,Office,31,Government,6,71,1,Voted
+987,32770,Married,68,12,Female,White,Not hispanic,E. nor. central,Office,31,Government,12,63,2,Voted
+1171,31002,Not married,37,16,Female,Black,Not hispanic,South atlantic,Office,31,Private,5,64,1,Voted
+1317,30991,Not married,35,14,Female,White,Not hispanic,E. nor. central,Office,32,Private,2,65,2,Voted
+1094,30110,Not married,58,15,Female,Black,Not hispanic,South atlantic,Office,25,Private,5,59,2,Voted
+1282,29639,Not married,51,13,Female,White,Not hispanic,Mountain,Office,37,Private,1,66,1,Voted
+118,29244,Not married,30,16,Male,Other,Hispanic,Middle atlantic,Office,45,Private,2,68,2,Voted
+2329,27437,Married,45,18,Female,Black,Not hispanic,W. nor. central,Office,32,Government,2,67,2,Did not vote
+2181,27398,Not married,40,16,Female,White,Not hispanic,Pacific,Office,40,Private,2,66,1,Voted
+1061,26432,Not married,60,12,Male,White,Not hispanic,South atlantic,Office,33,Private,8,73,1,Voted
+1958,25917,Married,44,15,Male,White,Hispanic,W. nor. central,Office,31,Private,18,69,4,Voted
+1667,25901,Married,53,13,Female,Black,Not hispanic,South atlantic,Office,45,Private,6,64,3,Voted
+2148,25651,Married,51,14,Female,White,Hispanic,Pacific,Office,45,Private,3,64,4,Voted
+1846,25413,Married,44,14,Female,White,Not hispanic,E. nor. central,Office,24,Private,4,64,5,Voted
+2137,24957,Not married,41,11,Female,White,Not hispanic,Pacific,Office,50,Private,16,66,1,Did not vote
+474,24677,Not married,24,17,Female,White,Not hispanic,New england,Office,36,Private,2,69,5,Voted
+1265,24348,Not married,54,15,Female,Black,Not hispanic,E. nor. central,Office,31,Private,0,67,1,Voted
+660,24055,Not married,62,12,Female,Black,Not hispanic,W. sou. central,Office,45,Private,28,64,1,Voted
+1896,23773,Not married,30,15,Female,White,Not hispanic,E. nor. central,Office,40,Private,2,62,4,Voted
+2300,22638,Married,41,15,Female,White,Not hispanic,W. sou. central,Office,17,Government,8,63,4,Voted
+1059,22323,Not married,57,16,Male,White,Not hispanic,South atlantic,Office,31,Private,5,72,2,Voted
+1145,22164,Not married,49,13,Female,White,Not hispanic,Middle atlantic,Office,45,Private,1,67,1,Did not vote
+1170,20153,Not married,53,12,Female,Black,Not hispanic,South atlantic,Office,38,Private,6,71,3,Voted
+2470,18127,Married,40,14,Female,White,Not hispanic,E. sou. central,Office,32,Private,5,68,4,Did not vote
+1930,17644,Married,29,12,Male,White,Not hispanic,W. nor. central,Office,25,Private,9,77,2,Did not vote
+1658,17503,Not married,26,12,Female,Black,Not hispanic,South atlantic,Office,40,Government,2,65,3,Voted
+1373,17454,Married,34,16,Female,White,Not hispanic,E. sou. central,Office,17,Private,11,68,2,Did not vote
+900,17367,Not married,34,12,Male,White,Hispanic,Mountain,Office,39,Private,8,69,1,Did not vote
+1465,16342,Not married,51,12,Female,Black,Not hispanic,Middle atlantic,Office,25,Private,15,63,2,Did not vote
+1245,16234,Not married,43,12,Female,White,Not hispanic,E. nor. central,Office,25,Private,9,68,4,Did not vote
+1831,16156,Not married,23,14,Male,White,Not hispanic,E. nor. central,Office,33,Private,2,74,4,Voted
+2069,15854,Not married,61,12,Female,White,Not hispanic,Mountain,Office,39,Private,2,63,1,Voted
+2224,15353,Married,47,11,Female,White,Not hispanic,Mountain,Office,25,Private,7,64,2,Did not vote
+1860,12968,Married,44,17,Female,White,Not hispanic,E. nor. central,Office,32,Private,24,70,4,Did not vote
+1218,12857,Not married,56,16,Female,Other,Hispanic,W. sou. central,Office,32,Government,25,61,2,Voted
+223,12778,Married,56,16,Male,White,Not hispanic,Pacific,Office,38,Private,6,70,2,Did not vote
+1851,10104,Married,54,16,Female,White,Not hispanic,E. nor. central,Office,32,Government,6,65,2,Voted
+2032,6719,Not married,30,12,Female,White,Hispanic,W. sou. central,Office,31,Private,0,63,3,Did not vote
+982,2934,Not married,23,16,Female,White,Not hispanic,Mountain,Office,25,Private,2,64,3,Voted
+1259,2716,Not married,21,12,Female,White,Not hispanic,E. nor. central,Office,38,Government,0,63,3,Did not vote
+128,261801,Married,38,20,Male,Other,Not hispanic,Middle atlantic,Professional,80,Private,3,68,2,Did not vote
+1938,249607,Married,66,20,Male,White,Not hispanic,W. nor. central,Professional,80,Private,6,74,2,Did not vote
+366,237000,Married,49,16,Male,White,Not hispanic,South atlantic,Professional,63,Private,0,71,4,Voted
+541,223792,Married,44,20,Male,White,Not hispanic,Pacific,Professional,80,Private,15,70,5,Voted
+137,217080,Married,61,20,Male,White,Not hispanic,Middle atlantic,Professional,80,Government,30,78,2,Voted
+843,200470,Not married,68,19,Male,White,Not hispanic,Pacific,Professional,66,Private,43,65,1,Voted
+611,196709,Married,57,16,Male,White,Hispanic,Middle atlantic,Professional,51,Private,13,72,2,Voted
+489,196677,Married,38,16,Male,White,Not hispanic,Pacific,Professional,69,Private,0,71,4,Voted
+2379,189384,Not married,40,20,Male,White,Not hispanic,E. nor. central,Professional,80,Private,2,70,1,Voted
+1708,189372,Married,64,16,Male,White,Not hispanic,E. sou. central,Professional,46,Private,27,72,2,Voted
+2293,177820,Not married,62,20,Male,White,Not hispanic,W. sou. central,Professional,70,Private,0,71,1,Voted
+1738,166077,Married,62,16,Male,White,Not hispanic,E. sou. central,Professional,69,Private,20,71,2,Voted
+504,163476,Married,54,16,Male,White,Not hispanic,Pacific,Professional,67,Private,14,72,3,Voted
+68,162123,Not married,57,18,Male,White,Not hispanic,Middle atlantic,Professional,57,Private,3,71,1,Voted
+411,159331,Married,35,19,Male,White,Not hispanic,South atlantic,Professional,69,Private,8,71,2,Did not vote
+1033,158969,Married,60,20,Male,Black,Not hispanic,W. nor. central,Professional,65,Private,12,69,2,Voted
+1243,158681,Married,29,20,Male,White,Not hispanic,E. nor. central,Professional,72,Private,2,79,2,Voted
+1560,155391,Married,37,16,Male,White,Not hispanic,South atlantic,Professional,80,Private,2,73,3,Voted
+379,151477,Married,49,16,Male,White,Not hispanic,South atlantic,Professional,60,Private,18,66,3,Voted
+1651,145797,Married,52,20,Female,White,Not hispanic,South atlantic,Professional,80,Private,16,65,4,Voted
+1057,133242,Not married,44,17,Male,White,Hispanic,South atlantic,Professional,73,Private,2,68,2,Did not vote
+1925,103169,Married,31,18,Female,White,Not hispanic,W. nor. central,Professional,66,Private,6,67,2,Voted
+49,102971,Married,32,15,Female,White,Not hispanic,Middle atlantic,Professional,51,Private,9,66,2,Did not vote
+974,102559,Not married,42,16,Male,White,Not hispanic,Mountain,Professional,60,Private,3,72,1,Voted
+1107,102307,Married,60,16,Male,White,Not hispanic,South atlantic,Professional,53,Government,10,74,2,Voted
+947,100347,Married,36,17,Female,White,Not hispanic,Pacific,Professional,58,Private,3,62,2,Voted
+405,99671,Married,70,16,Male,White,Not hispanic,South atlantic,Professional,74,Private,44,70,3,Voted
+620,98568,Married,64,16,Male,White,Not hispanic,Middle atlantic,Professional,60,Private,10,67,2,Voted
+75,96761,Married,39,20,Female,White,Not hispanic,Middle atlantic,Professional,64,Government,6,69,4,Voted
+109,96400,Married,42,20,Male,White,Not hispanic,Middle atlantic,Professional,70,Government,10,69,4,Voted
+531,96054,Not married,28,17,Male,White,Not hispanic,Pacific,Professional,61,Private,1,66,1,Voted
+2214,90347,Married,34,20,Female,White,Hispanic,Pacific,Professional,74,Government,9,66,2,Voted
+132,90188,Married,53,16,Male,Black,Not hispanic,Middle atlantic,Professional,63,Private,15,74,4,Voted
+592,87887,Married,56,20,Female,White,Not hispanic,W. sou. central,Professional,74,Government,4,73,3,Voted
+28,87137,Married,57,16,Male,White,Not hispanic,Middle atlantic,Professional,69,Private,25,71,7,Voted
+1559,83843,Married,54,15,Male,White,Not hispanic,South atlantic,Professional,44,Private,5,72,3,Voted
+2201,83467,Not married,61,16,Male,White,Not hispanic,Pacific,Professional,73,Private,20,72,3,Voted
+921,82281,Married,53,16,Male,White,Not hispanic,W. nor. central,Professional,60,Private,27,71,2,Voted
+490,80997,Married,47,18,Female,White,Not hispanic,Pacific,Professional,63,Private,24,69,2,Voted
+200,80211,Married,41,12,Male,White,Not hispanic,Pacific,Professional,48,Private,16,66,4,Did not vote
+1889,79702,Married,57,16,Male,White,Not hispanic,E. nor. central,Professional,73,Private,30,70,2,Voted
+2249,73644,Married,31,18,Female,White,Not hispanic,Mountain,Professional,38,Private,0,64,2,Did not vote
+312,73210,Married,30,20,Female,White,Not hispanic,E. nor. central,Professional,61,Private,3,66,2,Voted
+1735,71209,Married,34,20,Male,White,Not hispanic,E. sou. central,Professional,69,Government,3,74,4,Voted
+1129,70944,Not married,39,18,Female,White,Not hispanic,Middle atlantic,Professional,64,Private,4,60,3,Voted
+514,70216,Not married,34,13,Female,Black,Not hispanic,Pacific,Professional,54,Private,9,69,2,Voted
+64,70184,Not married,47,16,Female,Other,Not hispanic,Middle atlantic,Professional,55,Government,7,64,2,Voted
+488,69157,Married,54,18,Female,White,Not hispanic,New england,Professional,51,Government,21,64,3,Voted
+714,69041,Married,61,16,Male,Black,Not hispanic,South atlantic,Professional,63,Government,15,69,2,Voted
+1687,68795,Not married,72,15,Male,White,Not hispanic,E. sou. central,Professional,60,Government,30,72,1,Voted
+270,68329,Married,46,18,Female,White,Not hispanic,Pacific,Professional,61,Government,23,68,5,Voted
+2075,67283,Not married,34,20,Female,White,Not hispanic,Mountain,Professional,63,Private,2,64,3,Voted
+162,67174,Not married,45,14,Female,White,Not hispanic,New england,Professional,40,Private,11,66,1,Voted
+2072,67084,Not married,43,16,Female,Other,Hispanic,Mountain,Professional,60,Private,2,67,2,Voted
+486,66853,Married,60,16,Female,White,Not hispanic,New england,Professional,61,Government,22,67,2,Voted
+1326,66807,Not married,63,16,Male,White,Not hispanic,E. nor. central,Professional,60,Private,0,72,1,Voted
+1745,66201,Not married,46,18,Male,White,Not hispanic,E. sou. central,Professional,38,Government,17,70,1,Did not vote
+697,66188,Married,27,16,Male,White,Not hispanic,W. sou. central,Professional,70,Private,3,72,2,Voted
+119,65870,Married,44,20,Male,Other,Hispanic,Middle atlantic,Professional,64,Government,14,68,2,Voted
+2080,65762,Married,56,20,Female,White,Not hispanic,Mountain,Professional,71,Government,7,63,2,Voted
+538,64567,Not married,42,17,Female,White,Not hispanic,Pacific,Professional,61,Government,19,68,2,Voted
+499,64323,Married,50,17,Female,Other,Not hispanic,Pacific,Professional,63,Government,20,61,2,Did not vote
+1100,63779,Married,37,12,Male,White,Hispanic,South atlantic,Professional,51,Private,4,68,6,Voted
+2,63405,Married,26,16,Female,White,Not hispanic,New england,Professional,51,Private,3,60,2,Voted
+1838,63156,Married,56,20,Male,White,Not hispanic,E. nor. central,Professional,61,Private,24,67,1,Voted
+1791,62496,Not married,51,14,Male,White,Not hispanic,South atlantic,Professional,61,Government,32,72,1,Voted
+2228,62353,Married,42,20,Female,White,Hispanic,Mountain,Professional,74,Government,5,65,4,Voted
+1396,49893,Married,37,18,Male,White,Not hispanic,New england,Professional,53,Private,7,68,2,Voted
+1962,49893,Married,59,18,Female,White,Not hispanic,W. nor. central,Professional,64,Private,0,68,2,Voted
+748,49892,Married,48,20,Female,White,Hispanic,South atlantic,Professional,64,Private,4,60,2,Voted
+935,49892,Married,32,16,Male,White,Not hispanic,Pacific,Professional,70,Private,0,69,3,Voted
+1032,49892,Married,47,18,Male,White,Not hispanic,W. nor. central,Professional,58,Private,1,68,4,Did not vote
+1236,49892,Not married,50,16,Male,White,Not hispanic,E. nor. central,Professional,74,Government,8,72,2,Voted
+455,49891,Married,28,16,Male,White,Not hispanic,New england,Professional,70,Private,3,71,2,Voted
+698,49890,Not married,34,16,Female,White,Not hispanic,W. sou. central,Professional,56,Government,9,63,1,Did not vote
+380,49889,Married,36,18,Female,White,Not hispanic,South atlantic,Professional,64,Government,4,69,3,Did not vote
+701,49889,Not married,39,20,Male,Black,Not hispanic,South atlantic,Professional,38,Government,6,69,1,Voted
+1714,49889,Not married,39,18,Male,Black,Not hispanic,E. sou. central,Professional,47,Government,18,78,1,Voted
+2302,49889,Married,39,15,Female,White,Not hispanic,W. sou. central,Professional,64,Private,17,64,2,Voted
+324,49888,Married,58,16,Male,White,Not hispanic,E. nor. central,Professional,47,Government,26,70,2,Voted
+1309,49887,Married,36,19,Female,White,Not hispanic,E. nor. central,Professional,60,Private,4,60,3,Voted
+1036,49886,Married,48,18,Female,White,Not hispanic,W. nor. central,Professional,54,Private,16,65,4,Did not vote
+2340,49886,Married,43,20,Male,White,Hispanic,W. nor. central,Professional,60,Private,16,72,4,Voted
+407,49885,Married,31,16,Female,White,Not hispanic,South atlantic,Professional,47,Private,2,70,2,Did not vote
+492,49885,Not married,25,16,Male,White,Not hispanic,Pacific,Professional,47,Private,1,76,2,Voted
+616,49885,Married,36,16,Male,White,Not hispanic,Middle atlantic,Professional,65,Private,2,70,3,Voted
+1508,49885,Not married,60,18,Female,White,Not hispanic,South atlantic,Professional,64,Government,13,68,1,Voted
+1906,49885,Married,39,14,Male,White,Not hispanic,E. nor. central,Professional,60,Private,12,71,6,Voted
+2417,49885,Married,51,14,Male,White,Not hispanic,South atlantic,Professional,53,Private,27,67,2,Voted
+364,49884,Not married,30,16,Female,White,Not hispanic,South atlantic,Professional,47,Government,4,71,2,Voted
+872,49884,Married,52,20,Male,White,Not hispanic,Mountain,Professional,64,Government,8,70,4,Voted
+1135,49884,Married,43,14,Female,White,Not hispanic,Middle atlantic,Professional,64,Private,23,65,2,Voted
+1592,49884,Married,50,20,Male,White,Not hispanic,South atlantic,Professional,74,Government,10,68,4,Voted
+1852,49884,Married,33,16,Female,White,Not hispanic,E. nor. central,Professional,64,Private,3,67,3,Voted
+2291,49884,Married,58,13,Female,White,Not hispanic,W. sou. central,Professional,64,Private,20,65,2,Voted
+102,49883,Not married,32,18,Male,White,Not hispanic,Middle atlantic,Professional,57,Private,1,75,2,Voted
+923,49883,Married,55,17,Male,White,Not hispanic,W. nor. central,Professional,65,Private,3,69,2,Voted
+1234,49883,Married,43,16,Female,White,Not hispanic,E. nor. central,Professional,65,Private,9,66,4,Voted
+2057,49883,Not married,29,19,Female,White,Hispanic,Mountain,Professional,67,Government,4,61,1,Voted
+1900,49117,Not married,50,18,Female,White,Not hispanic,E. nor. central,Professional,64,Private,3,63,1,Did not vote
+2183,48885,Married,37,20,Male,White,Not hispanic,Pacific,Professional,74,Private,5,74,3,Voted
+2422,48825,Not married,63,18,Female,White,Not hispanic,South atlantic,Professional,61,Government,32,67,2,Voted
+1782,48219,Married,26,16,Female,White,Not hispanic,South atlantic,Professional,64,Private,2,66,2,Did not vote
+1950,48201,Not married,52,17,Male,White,Not hispanic,W. nor. central,Professional,61,Private,9,68,3,Did not vote
+418,48147,Married,35,17,Female,White,Not hispanic,South atlantic,Professional,51,Private,4,69,3,Voted
+615,48121,Married,29,16,Male,Other,Not hispanic,Middle atlantic,Professional,58,Private,2,68,4,Voted
+283,47787,Married,32,19,Male,White,Hispanic,Pacific,Professional,51,Government,11,68,3,Did not vote
+1928,47501,Not married,59,14,Male,White,Not hispanic,W. nor. central,Professional,64,Government,20,71,1,Voted
+633,46336,Not married,35,18,Male,White,Not hispanic,Middle atlantic,Professional,51,Private,4,62,1,Voted
+52,46334,Married,42,16,Male,White,Not hispanic,Middle atlantic,Professional,61,Private,4,68,3,Voted
+142,46210,Married,40,20,Male,White,Not hispanic,Middle atlantic,Professional,64,Government,8,75,4,Voted
+1972,45786,Not married,58,12,Male,White,Not hispanic,W. sou. central,Professional,65,Private,3,73,1,Voted
+450,44910,Married,50,16,Male,Other,Not hispanic,New england,Professional,66,Private,2,68,2,Voted
+2043,44455,Not married,41,18,Female,White,Not hispanic,Mountain,Professional,58,Government,10,69,1,Voted
+525,44040,Not married,45,14,Female,Black,Not hispanic,Pacific,Professional,60,Private,25,68,2,Voted
+116,43618,Not married,35,18,Female,White,Not hispanic,Middle atlantic,Professional,64,Government,6,67,1,Voted
+1276,43260,Not married,57,14,Male,White,Not hispanic,Mountain,Professional,54,Government,2,72,1,Did not vote
+2522,43192,Married,65,16,Male,White,Not hispanic,New england,Professional,50,Government,28,68,2,Voted
+1501,42589,Married,45,18,Female,White,Not hispanic,South atlantic,Professional,60,Government,12,65,4,Voted
+898,42440,Not married,41,16,Female,White,Not hispanic,Mountain,Professional,60,Government,8,71,1,Voted
+803,42383,Married,58,12,Female,White,Not hispanic,E. nor. central,Professional,51,Private,20,64,4,Voted
+1345,42292,Married,53,16,Female,White,Not hispanic,Mountain,Professional,61,Government,14,66,4,Voted
+530,41937,Married,40,12,Male,Other,Not hispanic,Pacific,Professional,70,Private,7,64,2,Did not vote
+1121,41917,Not married,34,16,Male,Other,Not hispanic,Pacific,Professional,55,Government,0,69,3,Voted
+2176,41586,Not married,47,16,Male,White,Not hispanic,Pacific,Professional,47,Government,14,73,1,Voted
+1607,41389,Not married,37,18,Female,White,Not hispanic,South atlantic,Professional,59,Private,0,67,3,Voted
+1313,41098,Not married,26,17,Male,Other,Not hispanic,E. nor. central,Professional,60,Private,1,73,1,Did not vote
+741,40896,Married,38,18,Female,Black,Not hispanic,South atlantic,Professional,61,Government,15,64,6,Voted
+2021,40659,Not married,37,17,Female,White,Hispanic,W. sou. central,Professional,61,Government,11,65,3,Voted
+2281,40518,Married,30,12,Male,White,Not hispanic,W. sou. central,Professional,66,Private,5,73,2,Voted
+2071,40326,Not married,43,16,Female,White,Not hispanic,Mountain,Professional,64,Government,0,70,3,Voted
+2408,39837,Married,54,18,Female,White,Not hispanic,E. nor. central,Professional,38,Private,19,62,2,Voted
+2529,39820,Married,49,16,Male,White,Not hispanic,New england,Professional,64,Government,7,70,4,Voted
+1676,39300,Not married,27,16,Female,White,Not hispanic,South atlantic,Professional,61,Government,3,62,1,Voted
+880,39029,Married,34,17,Male,White,Not hispanic,Mountain,Professional,64,Government,7,72,3,Voted
+787,38380,Married,60,20,Female,White,Not hispanic,E. nor. central,Professional,74,Private,9,64,2,Voted
+1193,37973,Married,30,18,Male,White,Not hispanic,E. nor. central,Professional,64,Government,0,74,3,Voted
+1419,37678,Married,39,16,Male,White,Not hispanic,Middle atlantic,Professional,56,Government,2,67,3,Voted
+2271,37132,Married,58,16,Female,White,Not hispanic,W. sou. central,Professional,61,Government,33,62,2,Voted
+477,36766,Married,55,16,Female,White,Not hispanic,New england,Professional,64,Private,17,63,4,Voted
+30,36636,Not married,54,16,Male,White,Not hispanic,Middle atlantic,Professional,51,Private,3,71,1,Voted
+398,36404,Not married,36,20,Female,Black,Not hispanic,South atlantic,Professional,74,Government,13,66,2,Voted
+1712,36130,Not married,43,16,Female,Black,Not hispanic,E. sou. central,Professional,61,Government,10,64,1,Voted
+1992,36053,Married,60,20,Male,White,Not hispanic,W. sou. central,Professional,64,Government,5,74,2,Voted
+1497,35786,Not married,50,18,Female,White,Not hispanic,South atlantic,Professional,71,Private,11,62,2,Voted
+1870,35750,Married,54,16,Female,White,Not hispanic,E. nor. central,Professional,51,Private,6,62,1,Voted
+2189,35590,Married,32,16,Male,White,Not hispanic,Pacific,Professional,73,Government,2,72,3,Voted
+516,34598,Not married,69,16,Female,White,Not hispanic,Pacific,Professional,52,Government,41,66,1,Voted
+503,34377,Not married,65,18,Male,White,Not hispanic,Pacific,Professional,42,Private,20,75,1,Voted
+2320,34148,Not married,46,16,Female,White,Not hispanic,W. nor. central,Professional,61,Private,2,74,1,Voted
+1859,34087,Married,56,18,Female,White,Not hispanic,E. nor. central,Professional,62,Private,25,67,3,Did not vote
+225,33970,Not married,24,16,Female,Other,Not hispanic,Pacific,Professional,53,Government,2,66,4,Did not vote
+1103,33487,Married,30,16,Female,White,Not hispanic,South atlantic,Professional,61,Government,7,69,3,Voted
+1991,32913,Not married,29,16,Female,White,Not hispanic,W. sou. central,Professional,61,Government,0,63,1,Voted
+1549,32807,Married,35,18,Female,White,Not hispanic,South atlantic,Professional,64,Government,11,65,2,Voted
+1960,32686,Married,55,16,Female,White,Not hispanic,W. nor. central,Professional,60,Government,34,64,3,Voted
+877,30713,Married,40,17,Female,White,Not hispanic,Mountain,Professional,61,Government,8,62,2,Voted
+1418,28950,Married,36,15,Male,White,Not hispanic,Middle atlantic,Professional,74,Government,5,74,2,Voted
+444,27286,Not married,44,17,Male,White,Not hispanic,New england,Professional,60,Private,1,73,4,Voted
+2356,27247,Married,31,12,Female,White,Not hispanic,W. nor. central,Professional,47,Private,3,65,6,Voted
+1519,27110,Married,47,16,Female,White,Not hispanic,South atlantic,Professional,64,Government,0,66,6,Voted
+1545,26954,Married,36,17,Female,White,Not hispanic,South atlantic,Professional,64,Government,10,67,2,Voted
+1531,25494,Married,37,20,Male,White,Not hispanic,South atlantic,Professional,67,Private,7,75,2,Did not vote
+471,23707,Not married,28,16,Male,White,Not hispanic,New england,Professional,54,Private,3,69,3,Did not vote
+1192,22874,Not married,29,16,Male,White,Not hispanic,E. nor. central,Professional,64,Private,3,72,2,Did not vote
+1707,22752,Not married,32,16,Female,White,Not hispanic,E. sou. central,Professional,48,Government,9,64,2,Voted
+1824,22387,Married,33,12,Female,White,Not hispanic,E. nor. central,Professional,74,Private,1,65,2,Voted
+572,22102,Married,55,6,Male,Other,Hispanic,W. sou. central,Professional,46,Private,16,69,5,Did not vote
+2378,21264,Married,59,15,Female,White,Not hispanic,E. nor. central,Professional,51,Private,14,66,2,Voted
+2116,20220,Married,35,14,Female,White,Not hispanic,Pacific,Professional,60,Government,1,60,6,Voted
+724,20126,Not married,37,15,Male,White,Hispanic,South atlantic,Professional,51,Private,0,75,4,Did not vote
+2523,18947,Married,48,16,Female,White,Not hispanic,New england,Professional,53,Private,0,68,4,Voted
+884,17961,Not married,53,13,Female,White,Hispanic,Mountain,Professional,55,Private,25,59,4,Voted
+226,17201,Married,69,14,Male,White,Not hispanic,Pacific,Professional,51,Private,2,69,2,Voted
+2386,14594,Not married,30,12,Female,White,Not hispanic,E. nor. central,Professional,52,Private,0,66,2,Voted
+1264,14108,Not married,53,12,Female,White,Not hispanic,E. nor. central,Professional,61,Government,28,71,3,Voted
+180,9702,Not married,71,16,Female,White,Not hispanic,Pacific,Professional,71,Private,4,62,1,Voted
+1339,9524,Not married,37,20,Female,White,Not hispanic,Mountain,Professional,38,Government,0,62,1,Voted
+2219,9356,Married,53,18,Female,White,Not hispanic,Mountain,Professional,74,Private,10,66,3,Voted
+2288,9241,Not married,39,17,Female,Other,Hispanic,W. sou. central,Professional,61,Government,0,64,2,Did not vote
+970,5839,Married,64,16,Male,White,Not hispanic,Mountain,Professional,46,Private,18,73,2,Voted
+1689,4937,Not married,47,12,Female,Black,Not hispanic,E. sou. central,Professional,56,Government,15,63,3,Voted
+2155,4455,Not married,31,17,Female,White,Not hispanic,Pacific,Professional,64,Private,0,64,1,Voted
+1120,4306,Not married,32,16,Female,Other,Hispanic,Pacific,Professional,57,Private,2,67,2,Voted
+851,4161,Married,28,15,Female,White,Not hispanic,Pacific,Professional,61,Government,0,68,2,Voted
+882,3548,Not married,23,14,Female,White,Not hispanic,Mountain,Professional,53,Private,0,62,3,Did not vote
+722,2820,Not married,32,13,Male,Black,Not hispanic,South atlantic,Professional,51,Private,10,67,1,Voted
+2479,167281,Not married,38,16,Female,White,Not hispanic,South atlantic,Service,38,Private,6,65,3,Voted
+806,159679,Married,47,16,Male,White,Not hispanic,E. nor. central,Service,31,Private,21,67,4,Voted
+1843,130339,Not married,47,14,Male,White,Not hispanic,E. nor. central,Service,38,Private,11,72,2,Voted
+1344,94761,Married,41,12,Female,White,Not hispanic,Mountain,Service,38,Private,10,61,2,Voted
+259,91392,Not married,43,14,Male,White,Not hispanic,Pacific,Service,31,Private,10,73,5,Voted
+874,90110,Not married,42,16,Male,White,Not hispanic,Mountain,Service,38,Private,16,72,2,Voted
+1126,83128,Married,47,14,Male,White,Not hispanic,Pacific,Service,38,Private,30,72,4,Did not vote
+1220,81274,Not married,56,14,Female,White,Hispanic,W. sou. central,Service,60,Government,15,63,1,Did not vote
+40,79867,Married,35,16,Male,White,Not hispanic,Middle atlantic,Service,38,Private,10,69,3,Voted
+101,79834,Not married,43,13,Female,Black,Not hispanic,Middle atlantic,Service,40,Government,17,68,2,Voted
+873,79806,Not married,41,12,Female,White,Not hispanic,Mountain,Service,44,Private,19,68,2,Voted
+1117,76911,Not married,44,16,Male,White,Not hispanic,Pacific,Service,40,Government,20,71,1,Did not vote
+1431,75989,Married,59,19,Male,White,Not hispanic,Middle atlantic,Service,38,Private,30,71,2,Voted
+1271,71884,Married,47,12,Male,White,Not hispanic,E. nor. central,Service,59,Government,27,73,5,Voted
+1329,69543,Married,32,18,Male,White,Not hispanic,E. nor. central,Service,60,Government,11,70,2,Voted
+770,49892,Married,43,16,Male,White,Not hispanic,South atlantic,Service,38,Private,8,73,5,Voted
+587,49886,Married,47,16,Male,White,Not hispanic,W. sou. central,Service,60,Government,20,71,2,Voted
+1130,49885,Not married,55,16,Female,White,Not hispanic,Middle atlantic,Service,48,Private,17,62,1,Voted
+1887,49885,Not married,41,13,Female,White,Not hispanic,E. nor. central,Service,48,Private,9,70,2,Voted
+1314,49884,Married,50,14,Male,White,Not hispanic,E. nor. central,Service,60,Government,20,71,2,Voted
+2239,49884,Married,40,15,Male,White,Not hispanic,Mountain,Service,48,Government,14,72,2,Did not vote
+1053,49883,Not married,47,14,Female,White,Not hispanic,South atlantic,Service,38,Private,18,68,1,Did not vote
+1783,49754,Married,56,12,Female,White,Not hispanic,South atlantic,Service,31,Private,5,63,2,Voted
+1902,48373,Married,43,14,Male,White,Not hispanic,E. nor. central,Service,60,Government,16,67,2,Voted
+1495,44540,Not married,55,13,Male,Black,Not hispanic,South atlantic,Service,40,Government,5,68,3,Voted
+1225,44207,Not married,43,14,Male,White,Hispanic,W. sou. central,Service,31,Private,8,71,1,Voted
+2246,40952,Married,27,16,Male,White,Not hispanic,Mountain,Service,60,Government,2,72,2,Voted
+649,40729,Married,46,12,Female,Black,Not hispanic,Middle atlantic,Service,48,Private,8,66,1,Voted
+560,40634,Married,49,16,Female,White,Not hispanic,W. sou. central,Service,44,Private,26,68,4,Voted
+2390,40555,Not married,38,16,Female,White,Not hispanic,E. nor. central,Service,31,Private,9,67,2,Voted
+1597,40423,Married,52,12,Male,White,Not hispanic,South atlantic,Service,60,Government,16,74,3,Voted
+2028,40005,Married,25,10,Female,White,Hispanic,W. sou. central,Service,38,Private,0,65,3,Did not vote
+1932,39604,Not married,45,14,Female,White,Not hispanic,W. nor. central,Service,32,Private,14,66,4,Did not vote
+2472,39310,Not married,64,12,Male,Black,Not hispanic,E. sou. central,Service,32,Private,6,68,1,Voted
+955,38349,Married,43,12,Male,Other,Hispanic,Mountain,Service,38,Private,13,67,4,Did not vote
+866,37606,Married,58,14,Male,White,Not hispanic,Pacific,Service,31,Private,3,71,2,Voted
+2083,37433,Not married,38,14,Female,White,Not hispanic,Mountain,Service,44,Private,10,68,2,Voted
+1741,37380,Not married,32,14,Male,Other,Hispanic,E. sou. central,Service,32,Private,0,68,2,Did not vote
+511,36769,Not married,37,15,Female,Black,Not hispanic,Pacific,Service,48,Government,14,62,3,Did not vote
+1700,35294,Not married,53,12,Male,White,Not hispanic,E. sou. central,Service,38,Private,10,71,1,Voted
+2423,35257,Not married,27,12,Female,White,Not hispanic,South atlantic,Service,31,Private,4,64,4,Voted
+2063,35010,Married,31,15,Male,White,Hispanic,Mountain,Service,60,Government,9,71,2,Voted
+573,34638,Not married,55,12,Female,Black,Not hispanic,W. sou. central,Service,33,Government,22,65,1,Did not vote
+2243,33470,Not married,47,14,Male,White,Hispanic,Mountain,Service,40,Private,5,66,1,Voted
+2373,33095,Not married,64,12,Female,White,Not hispanic,E. nor. central,Service,33,Private,13,65,1,Voted
+2190,32417,Not married,32,14,Male,Other,Hispanic,Pacific,Service,37,Private,0,65,1,Did not vote
+393,32222,Not married,22,14,Female,Black,Hispanic,South atlantic,Service,48,Government,2,61,2,Voted
+1144,31473,Married,38,14,Male,White,Not hispanic,Middle atlantic,Service,38,Private,15,71,4,Voted
+905,30907,Married,34,12,Male,Black,Not hispanic,Mountain,Service,48,Private,2,67,3,Did not vote
+1943,30415,Not married,56,12,Male,White,Not hispanic,W. nor. central,Service,37,Government,4,69,1,Voted
+1347,30091,Married,35,14,Female,White,Not hispanic,Mountain,Service,40,Government,6,66,10,Voted
+1026,29857,Not married,41,11,Male,White,Not hispanic,W. nor. central,Service,48,Private,10,68,2,Did not vote
+1397,29356,Married,27,12,Male,White,Not hispanic,New england,Service,31,Private,1,70,3,Voted
+207,29017,Not married,34,11,Female,Other,Hispanic,Pacific,Service,43,Private,6,57,3,Voted
+1299,27298,Married,55,16,Female,White,Not hispanic,Mountain,Service,31,Private,8,60,2,Voted
+1646,27100,Not married,41,12,Female,Black,Not hispanic,South atlantic,Service,48,Private,2,65,2,Voted
+781,26646,Not married,33,13,Male,White,Hispanic,South atlantic,Service,38,Private,7,64,4,Did not vote
+2012,26265,Not married,54,14,Female,White,Hispanic,W. sou. central,Service,48,Government,6,62,3,Voted
+387,26179,Not married,38,15,Female,Black,Not hispanic,South atlantic,Service,48,Private,0,68,3,Did not vote
+2187,25935,Not married,27,12,Male,White,Not hispanic,Pacific,Service,31,Private,5,71,1,Did not vote
+919,25558,Not married,58,12,Female,Black,Not hispanic,W. nor. central,Service,48,Private,2,67,2,Voted
+1154,25432,Not married,34,13,Female,White,Not hispanic,Middle atlantic,Service,36,Private,0,63,1,Did not vote
+1998,24655,Not married,30,15,Female,White,Hispanic,W. sou. central,Service,36,Private,3,69,2,Did not vote
+120,23947,Not married,58,16,Female,White,Not hispanic,Middle atlantic,Service,28,Private,9,62,1,Did not vote
+2177,23783,Not married,39,14,Male,White,Not hispanic,Pacific,Service,31,Private,8,72,1,Did not vote
+1716,23705,Not married,57,14,Female,Black,Not hispanic,E. sou. central,Service,48,Private,3,61,5,Voted
+1211,23445,Not married,25,13,Female,White,Not hispanic,W. sou. central,Service,32,Private,4,63,1,Voted
+1020,23022,Not married,40,12,Female,Black,Not hispanic,W. nor. central,Service,31,Private,2,62,4,Voted
+605,22524,Not married,30,12,Male,Black,Not hispanic,South atlantic,Service,33,Private,2,67,4,Voted
+2493,22420,Not married,26,13,Female,Black,Not hispanic,South atlantic,Service,38,Private,2,66,1,Voted
+1263,21733,Married,53,18,Female,Black,Not hispanic,E. nor. central,Service,48,Private,1,62,1,Did not vote
+836,21732,Not married,19,14,Female,Black,Not hispanic,Pacific,Service,48,Private,0,64,3,Did not vote
+840,21699,Married,44,14,Female,White,Not hispanic,Pacific,Service,53,Private,4,64,3,Voted
+1614,21381,Not married,52,14,Female,White,Hispanic,South atlantic,Service,35,Private,3,63,1,Voted
+287,21066,Not married,26,12,Female,White,Not hispanic,Pacific,Service,31,Private,0,65,4,Voted
+113,20976,Married,29,12,Female,Other,Hispanic,Middle atlantic,Service,36,Private,3,69,2,Did not vote
+2485,20921,Not married,55,11,Female,White,Not hispanic,South atlantic,Service,40,Government,0,65,1,Did not vote
+244,20908,Married,45,13,Female,White,Hispanic,Pacific,Service,28,Private,18,60,3,Did not vote
+893,20653,Not married,37,12,Male,White,Not hispanic,Mountain,Service,18,Private,4,73,1,Voted
+1266,20577,Not married,62,10,Female,Black,Not hispanic,E. nor. central,Service,48,Private,8,61,1,Voted
+153,20417,Married,54,14,Male,White,Not hispanic,Middle atlantic,Service,30,Private,0,69,1,Did not vote
+829,20372,Married,31,16,Female,White,Not hispanic,E. nor. central,Service,38,Private,9,64,2,Did not vote
+2443,20289,Not married,42,14,Female,Black,Not hispanic,E. sou. central,Service,38,Private,2,59,1,Voted
+2049,20225,Not married,61,12,Female,Other,Hispanic,Mountain,Service,48,Private,3,60,1,Voted
+695,20020,Not married,26,14,Female,White,Not hispanic,W. sou. central,Service,38,Private,2,63,2,Did not vote
+2487,19608,Not married,53,13,Female,White,Not hispanic,South atlantic,Service,36,Private,7,70,1,Voted
+289,19263,Married,39,10,Female,Other,Hispanic,Pacific,Service,48,Private,0,62,4,Voted
+704,18704,Not married,40,14,Female,Black,Not hispanic,South atlantic,Service,31,Government,9,67,1,Did not vote
+2221,18253,Married,56,11,Female,White,Not hispanic,Mountain,Service,21,Private,1,63,3,Voted
+1966,18198,Not married,27,14,Female,White,Not hispanic,W. sou. central,Service,38,Private,3,66,1,Voted
+1089,17966,Married,45,12,Female,White,Hispanic,South atlantic,Service,48,Private,13,57,3,Voted
+962,17931,Not married,30,16,Male,White,Not hispanic,Mountain,Service,31,Private,1,72,4,Did not vote
+761,17802,Married,50,12,Female,White,Hispanic,South atlantic,Service,48,Private,1,64,5,Did not vote
+2513,17743,Married,41,14,Female,White,Not hispanic,South atlantic,Service,53,Private,7,61,3,Did not vote
+1954,17459,Not married,28,16,Male,White,Not hispanic,W. nor. central,Service,48,Government,2,66,1,Voted
+2499,17408,Married,56,12,Female,White,Not hispanic,South atlantic,Service,33,Government,17,65,2,Did not vote
+890,17365,Married,60,12,Female,White,Hispanic,Mountain,Service,31,Private,10,70,4,Voted
+1550,17312,Not married,37,15,Female,Black,Not hispanic,South atlantic,Service,38,Private,1,60,2,Voted
+36,17227,Married,37,12,Female,Black,Not hispanic,Middle atlantic,Service,48,Private,5,66,6,Did not vote
+2363,17147,Not married,42,15,Female,Other,Not hispanic,W. nor. central,Service,24,Private,14,69,3,Did not vote
+1185,17066,Married,42,14,Female,White,Not hispanic,E. sou. central,Service,36,Private,1,67,3,Voted
+70,16927,Not married,32,12,Male,White,Not hispanic,Middle atlantic,Service,31,Private,0,67,3,Voted
+2117,16324,Not married,42,14,Female,Black,Not hispanic,Pacific,Service,28,Private,18,67,1,Voted
+2295,16322,Married,48,14,Female,White,Not hispanic,W. sou. central,Service,48,Private,3,66,4,Voted
+1977,16204,Not married,35,16,Female,Black,Not hispanic,W. sou. central,Service,38,Private,5,66,1,Voted
+1997,16179,Not married,67,12,Female,White,Hispanic,W. sou. central,Service,48,Government,10,66,2,Did not vote
+1116,16165,Married,32,14,Male,White,Not hispanic,Pacific,Service,38,Private,5,69,2,Voted
+1447,16158,Not married,22,10,Female,White,Not hispanic,Middle atlantic,Service,31,Private,4,62,3,Did not vote
+114,15981,Not married,28,12,Male,Other,Hispanic,Middle atlantic,Service,18,Private,4,72,3,Voted
+1002,15754,Not married,23,13,Female,Black,Not hispanic,E. nor. central,Service,48,Private,2,61,4,Voted
+2055,15327,Not married,32,14,Male,White,Not hispanic,Mountain,Service,38,Private,6,72,1,Did not vote
+1772,14652,Not married,26,14,Male,White,Not hispanic,South atlantic,Service,32,Private,0,70,4,Did not vote
+1979,14303,Not married,53,9,Female,Black,Not hispanic,W. sou. central,Service,33,Private,8,63,1,Voted
+585,14106,Married,70,13,Female,White,Not hispanic,W. sou. central,Service,31,Private,25,62,2,Voted
+1378,13826,Married,40,12,Female,White,Not hispanic,New england,Service,48,Government,7,64,2,Voted
+1980,13813,Not married,28,13,Female,Black,Not hispanic,W. sou. central,Service,48,Private,3,62,1,Did not vote
+591,13791,Not married,42,15,Female,Black,Not hispanic,W. sou. central,Service,33,Government,9,66,1,Voted
+2252,13373,Married,49,12,Female,White,Not hispanic,W. sou. central,Service,31,Private,2,63,2,Did not vote
+1871,13325,Not married,31,14,Female,White,Not hispanic,E. nor. central,Service,38,Private,3,63,1,Voted
+881,12558,Not married,58,11,Female,White,Hispanic,Mountain,Service,36,Private,13,62,1,Did not vote
+675,12216,Married,33,10,Male,Black,Hispanic,W. sou. central,Service,38,Private,10,64,6,Did not vote
+1042,11926,Married,66,12,Female,White,Not hispanic,W. nor. central,Service,48,Private,14,59,3,Voted
+1223,11621,Not married,33,8,Female,White,Hispanic,W. sou. central,Service,31,Private,5,64,1,Did not vote
+1802,11492,Married,44,17,Female,White,Not hispanic,E. nor. central,Service,31,Private,4,65,2,Voted
+1068,11266,Not married,59,14,Female,Black,Not hispanic,South atlantic,Service,48,Private,0,66,1,Did not vote
+1337,10647,Not married,29,17,Male,White,Not hispanic,Mountain,Service,33,Private,6,77,1,Voted
+1284,10511,Not married,37,12,Female,Other,Hispanic,Mountain,Service,34,Private,1,62,5,Did not vote
+2186,10157,Not married,34,15,Female,White,Not hispanic,Pacific,Service,48,Private,0,65,2,Voted
+1641,8971,Married,46,13,Female,Black,Not hispanic,South atlantic,Service,31,Private,2,60,4,Voted
+1967,8597,Married,34,11,Female,White,Not hispanic,W. sou. central,Service,38,Private,2,65,2,Voted
+719,8517,Not married,21,12,Male,Black,Not hispanic,South atlantic,Service,28,Private,1,73,2,Did not vote
+2369,8499,Not married,54,16,Male,White,Not hispanic,W. nor. central,Service,38,Private,23,69,1,Voted
+1561,8383,Married,39,12,Male,Black,Not hispanic,South atlantic,Service,48,Private,0,76,5,Voted
+1610,7336,Not married,30,10,Male,Black,Not hispanic,South atlantic,Service,24,Private,3,75,3,Did not vote
+319,7272,Not married,31,10,Female,Other,Hispanic,E. nor. central,Service,28,Private,1,62,1,Did not vote
+1152,7143,Not married,28,12,Female,White,Not hispanic,Middle atlantic,Service,48,Private,4,68,2,Did not vote
+1621,6443,Not married,22,12,Female,White,Not hispanic,South atlantic,Service,31,Private,0,63,3,Did not vote
+1659,6059,Not married,20,12,Female,White,Not hispanic,South atlantic,Service,33,Private,2,61,3,Did not vote
+430,5665,Not married,25,16,Male,Black,Not hispanic,South atlantic,Service,31,Private,0,70,3,Voted
+666,5331,Married,27,12,Female,Black,Not hispanic,W. sou. central,Service,33,Private,3,65,6,Voted
+2385,4961,Not married,26,12,Female,White,Not hispanic,E. nor. central,Service,33,Private,1,59,11,Did not vote
+154,4926,Not married,23,13,Male,Black,Not hispanic,Middle atlantic,Service,18,Private,0,72,3,Voted
+325,4327,Married,54,14,Female,Other,Not hispanic,E. nor. central,Service,31,Private,13,64,3,Voted
+777,3998,Not married,24,13,Female,Black,Not hispanic,South atlantic,Service,48,Private,2,60,5,Did not vote
+2240,3523,Married,24,13,Female,White,Not hispanic,Mountain,Service,38,Private,0,65,2,Voted
+1273,3435,Not married,20,12,Female,White,Not hispanic,E. nor. central,Service,28,Private,2,65,3,Did not vote
+1983,3007,Married,65,6,Female,Black,Not hispanic,W. sou. central,Service,33,Government,18,70,2,Voted
+341,2767,Not married,39,18,Female,Other,Not hispanic,E. nor. central,Service,48,Government,0,62,1,Voted
+2279,2727,Married,46,12,Female,White,Not hispanic,W. sou. central,Service,31,Private,3,62,2,Did not vote
+2353,2645,Not married,19,12,Female,White,Not hispanic,W. nor. central,Service,31,Private,2,60,6,Did not vote
+814,2349,Not married,22,12,Male,White,Not hispanic,E. nor. central,Service,21,Private,0,71,3,Did not vote
+1577,1888,Married,25,13,Female,Black,Not hispanic,South atlantic,Service,21,Private,1,62,2,Did not vote
+1341,1626,Married,29,14,Male,White,Not hispanic,Mountain,Service,38,Private,0,63,2,Voted
+2512,1055,Not married,22,10,Male,White,Not hispanic,South atlantic,Service,21,Private,0,69,2,Did not vote
+1584,608,Not married,52,12,Female,Black,Not hispanic,South atlantic,Service,37,Private,0,72,1,Voted
+1019,252331,Not married,66,20,Female,Black,Not hispanic,W. nor. central,Technician,47,Private,18,67,1,Voted
+2024,220077,Married,39,12,Male,Other,Hispanic,W. sou. central,Technician,49,Private,11,70,5,Did not vote
+2154,192760,Married,62,14,Female,White,Not hispanic,Pacific,Technician,49,Private,25,64,2,Voted
+304,174025,Married,60,16,Male,Black,Not hispanic,E. nor. central,Technician,58,Private,25,74,5,Voted
+447,173120,Married,65,17,Male,White,Not hispanic,New england,Technician,43,Private,32,68,3,Voted
+77,113277,Married,54,16,Male,White,Not hispanic,Middle atlantic,Technician,42,Private,33,70,2,Voted
+838,102519,Married,40,16,Female,White,Not hispanic,Pacific,Technician,46,Private,4,66,4,Voted
+91,98812,Not married,45,15,Male,White,Not hispanic,Middle atlantic,Technician,66,Government,22,70,1,Voted
+1926,98775,Married,64,12,Male,White,Not hispanic,W. nor. central,Technician,49,Private,9,74,2,Voted
+2374,92379,Married,32,12,Male,White,Not hispanic,E. nor. central,Technician,49,Private,7,68,2,Did not vote
+45,89011,Not married,50,16,Female,White,Not hispanic,Middle atlantic,Technician,48,Private,3,67,1,Did not vote
+950,88227,Not married,41,14,Male,White,Not hispanic,Mountain,Technician,49,Private,7,73,2,Did not vote
+1771,85852,Not married,29,16,Male,White,Not hispanic,South atlantic,Technician,45,Private,4,67,1,Voted
+59,74873,Not married,56,18,Female,White,Hispanic,Middle atlantic,Technician,45,Private,2,66,1,Voted
+349,74654,Married,38,15,Male,White,Not hispanic,E. nor. central,Technician,55,Private,12,72,2,Voted
+953,74064,Married,40,18,Male,White,Not hispanic,Mountain,Technician,66,Government,16,71,4,Voted
+539,73855,Not married,29,16,Male,White,Hispanic,Pacific,Technician,45,Private,0,69,2,Did not vote
+497,71760,Not married,66,12,Male,White,Not hispanic,Pacific,Technician,45,Private,25,70,1,Voted
+420,71131,Not married,32,13,Male,Black,Not hispanic,South atlantic,Technician,48,Government,3,69,2,Voted
+140,70909,Married,57,16,Female,Other,Not hispanic,Middle atlantic,Technician,48,Private,14,65,2,Voted
+1920,70111,Married,55,18,Male,White,Not hispanic,W. nor. central,Technician,45,Private,28,75,2,Voted
+2428,65277,Married,30,17,Male,White,Not hispanic,E. nor. central,Technician,66,Private,2,67,4,Voted
+805,64184,Not married,57,12,Female,White,Not hispanic,E. nor. central,Technician,41,Private,16,66,1,Voted
+403,63853,Married,52,14,Female,White,Not hispanic,South atlantic,Technician,46,Private,28,64,4,Voted
+2199,63829,Not married,53,12,Male,White,Not hispanic,Pacific,Technician,50,Private,12,72,1,Did not vote
+841,61094,Married,54,16,Male,White,Not hispanic,Pacific,Technician,49,Private,27,71,3,Did not vote
+1115,49893,Not married,59,16,Female,White,Not hispanic,Pacific,Technician,52,Private,7,68,1,Voted
+2237,49891,Married,37,16,Male,White,Not hispanic,Mountain,Technician,58,Government,4,74,4,Voted
+1897,49888,Not married,56,16,Female,White,Not hispanic,E. nor. central,Technician,46,Private,34,69,1,Voted
+1921,49888,Married,64,16,Male,White,Not hispanic,W. nor. central,Technician,45,Private,25,71,2,Voted
+705,49887,Not married,48,14,Male,White,Not hispanic,South atlantic,Technician,42,Private,15,67,2,Voted
+1110,49887,Not married,45,12,Male,Other,Hispanic,Pacific,Technician,51,Private,20,65,2,Voted
+1149,49887,Married,50,16,Male,White,Not hispanic,Middle atlantic,Technician,31,Private,9,74,2,Voted
+205,49886,Married,46,16,Male,Other,Not hispanic,Pacific,Technician,31,Private,0,67,4,Voted
+669,49886,Not married,59,12,Female,White,Not hispanic,W. sou. central,Technician,44,Private,3,66,1,Voted
+275,49885,Not married,48,12,Female,Other,Hispanic,Pacific,Technician,50,Government,27,61,5,Voted
+345,49885,Married,45,17,Female,White,Not hispanic,E. nor. central,Technician,45,Private,9,64,3,Did not vote
+1104,49885,Married,50,14,Female,White,Not hispanic,South atlantic,Technician,46,Private,29,66,2,Voted
+648,49884,Not married,37,17,Female,Black,Not hispanic,Middle atlantic,Technician,46,Government,2,61,1,Voted
+1206,49883,Married,52,12,Male,White,Not hispanic,W. sou. central,Technician,45,Private,16,70,4,Voted
+90,48484,Not married,48,14,Female,Black,Not hispanic,Middle atlantic,Technician,48,Private,15,70,1,Did not vote
+47,48123,Not married,30,15,Male,White,Not hispanic,Middle atlantic,Technician,59,Private,6,72,1,Voted
+993,48067,Not married,42,13,Male,White,Not hispanic,E. nor. central,Technician,46,Private,9,70,6,Voted
+2412,47985,Married,54,16,Female,White,Not hispanic,E. nor. central,Technician,61,Private,30,65,2,Voted
+1566,47725,Not married,67,12,Female,White,Not hispanic,South atlantic,Technician,46,Private,16,64,1,Voted
+144,46609,Married,55,12,Male,White,Not hispanic,Middle atlantic,Technician,42,Private,3,68,2,Voted
+720,46144,Not married,29,16,Female,Black,Not hispanic,South atlantic,Technician,50,Private,6,66,2,Voted
+688,45439,Not married,57,14,Female,White,Not hispanic,W. sou. central,Technician,47,Private,3,63,1,Voted
+1332,44557,Married,36,12,Male,White,Not hispanic,Mountain,Technician,45,Private,14,65,4,Did not vote
+1268,44153,Not married,51,14,Male,Black,Not hispanic,E. nor. central,Technician,46,Private,2,74,1,Did not vote
+1591,43495,Married,36,16,Female,White,Not hispanic,South atlantic,Technician,69,Private,10,63,3,Voted
+181,43474,Not married,37,14,Male,Other,Hispanic,Pacific,Technician,48,Government,6,70,1,Voted
+2029,43247,Married,51,12,Male,White,Hispanic,W. sou. central,Technician,49,Private,0,67,4,Voted
+2103,42534,Married,43,12,Male,White,Hispanic,Pacific,Technician,50,Private,23,65,4,Voted
+564,42483,Married,53,12,Male,White,Not hispanic,W. sou. central,Technician,50,Government,34,74,4,Voted
+2179,42331,Not married,33,14,Male,White,Not hispanic,Pacific,Technician,41,Private,5,70,1,Voted
+965,42039,Not married,29,16,Male,White,Not hispanic,Mountain,Technician,39,Private,0,70,1,Voted
+1649,41783,Not married,54,14,Female,Black,Not hispanic,South atlantic,Technician,46,Private,12,61,2,Did not vote
+367,41412,Married,58,15,Female,White,Not hispanic,South atlantic,Technician,39,Government,29,64,2,Voted
+495,41060,Married,57,18,Female,White,Not hispanic,Pacific,Technician,46,Private,16,63,2,Voted
+2170,40393,Not married,40,16,Male,White,Not hispanic,Pacific,Technician,49,Private,14,70,2,Voted
+190,39475,Not married,31,14,Male,Black,Not hispanic,Pacific,Technician,46,Private,11,74,2,Voted
+51,38830,Married,52,18,Female,White,Not hispanic,Middle atlantic,Technician,47,Private,10,63,3,Voted
+1429,38262,Not married,58,19,Female,White,Not hispanic,Middle atlantic,Technician,46,Government,2,63,1,Voted
+1939,37953,Not married,26,19,Female,White,Not hispanic,W. nor. central,Technician,59,Private,0,64,1,Did not vote
+1704,37884,Not married,56,12,Female,White,Not hispanic,E. sou. central,Technician,46,Private,20,65,1,Did not vote
+1081,36605,Married,35,13,Female,White,Hispanic,South atlantic,Technician,46,Private,10,61,6,Voted
+2517,36531,Not married,34,16,Male,White,Not hispanic,New england,Technician,46,Private,7,70,2,Did not vote
+961,36280,Married,29,12,Female,White,Not hispanic,Mountain,Technician,46,Private,4,64,4,Voted
+2123,36071,Not married,33,14,Male,White,Not hispanic,Pacific,Technician,39,Government,9,70,1,Voted
+106,36069,Married,41,16,Male,White,Not hispanic,Middle atlantic,Technician,49,Private,3,65,2,Voted
+1231,35613,Married,64,12,Female,White,Not hispanic,E. nor. central,Technician,35,Private,42,64,2,Voted
+1087,35209,Not married,59,14,Female,Black,Not hispanic,South atlantic,Technician,47,Private,3,64,1,Voted
+2050,35074,Not married,48,15,Male,White,Hispanic,Mountain,Technician,50,Private,4,68,1,Voted
+46,34338,Not married,43,12,Female,Black,Not hispanic,Middle atlantic,Technician,46,Government,14,68,2,Voted
+891,34154,Not married,28,14,Female,White,Not hispanic,Mountain,Technician,49,Private,2,66,3,Voted
+1703,33701,Married,47,13,Female,White,Not hispanic,E. sou. central,Technician,47,Private,17,62,4,Voted
+662,33567,Not married,54,12,Male,Black,Not hispanic,W. sou. central,Technician,35,Government,0,69,2,Voted
+632,33275,Not married,41,13,Male,White,Not hispanic,Middle atlantic,Technician,47,Private,10,70,2,Voted
+500,32622,Married,65,13,Female,Other,Not hispanic,Pacific,Technician,61,Government,10,63,3,Voted
+907,32266,Not married,59,13,Female,White,Not hispanic,Mountain,Technician,55,Private,3,62,2,Voted
+1173,31829,Not married,30,14,Female,Black,Not hispanic,South atlantic,Technician,45,Private,3,70,3,Voted
+363,31446,Married,32,17,Female,White,Not hispanic,South atlantic,Technician,36,Private,2,70,2,Voted
+438,31430,Not married,25,16,Female,White,Not hispanic,New england,Technician,35,Private,1,66,2,Voted
+1558,31373,Married,57,15,Female,White,Not hispanic,South atlantic,Technician,47,Government,21,63,2,Voted
+2095,31062,Married,64,12,Female,White,Not hispanic,Mountain,Technician,41,Private,6,71,2,Voted
+738,30991,Not married,26,12,Female,White,Not hispanic,South atlantic,Technician,48,Private,5,65,3,Voted
+1353,30754,Married,41,12,Female,White,Not hispanic,E. sou. central,Technician,46,Private,19,62,4,Voted
+820,30284,Not married,55,12,Female,White,Not hispanic,E. nor. central,Technician,46,Private,14,66,1,Voted
+1849,30106,Not married,39,12,Male,White,Not hispanic,E. nor. central,Technician,55,Private,6,66,2,Did not vote
+1199,29971,Married,31,20,Female,White,Not hispanic,E. nor. central,Technician,47,Private,2,68,2,Voted
+1761,29660,Not married,58,12,Female,White,Not hispanic,E. nor. central,Technician,39,Government,35,61,1,Did not vote
+479,28747,Not married,52,16,Female,White,Not hispanic,New england,Technician,33,Government,5,67,2,Voted
+756,28458,Not married,39,15,Female,Black,Not hispanic,South atlantic,Technician,46,Government,14,68,1,Voted
+1039,27726,Not married,58,12,Female,White,Not hispanic,W. nor. central,Technician,66,Private,2,63,1,Voted
+1797,27203,Not married,54,15,Female,White,Not hispanic,Middle atlantic,Technician,45,Private,10,65,1,Voted
+510,26842,Not married,58,16,Female,Other,Hispanic,Pacific,Technician,30,Private,15,65,2,Voted
+2314,26719,Married,58,12,Female,White,Not hispanic,W. sou. central,Technician,55,Private,0,67,2,Did not vote
+1426,26488,Not married,33,16,Female,White,Not hispanic,Middle atlantic,Technician,33,Private,8,69,1,Voted
+1744,26340,Not married,43,18,Female,Black,Not hispanic,E. sou. central,Technician,48,Private,17,64,1,Did not vote
+1157,26146,Married,39,16,Female,White,Not hispanic,South atlantic,Technician,69,Private,1,61,3,Voted
+1093,25027,Not married,42,14,Female,White,Hispanic,South atlantic,Technician,41,Private,6,60,3,Did not vote
+930,24893,Not married,38,16,Female,White,Not hispanic,E. nor. central,Technician,46,Private,0,68,5,Voted
+1357,24773,Married,33,12,Female,White,Not hispanic,E. sou. central,Technician,43,Government,3,67,2,Voted
+439,24503,Not married,24,16,Male,White,Not hispanic,New england,Technician,49,Private,0,72,2,Voted
+746,24398,Not married,32,14,Female,Black,Not hispanic,South atlantic,Technician,46,Government,13,69,4,Voted
+956,24154,Not married,59,14,Female,White,Not hispanic,Mountain,Technician,69,Private,10,64,1,Voted
+2038,23623,Married,35,15,Female,White,Not hispanic,W. sou. central,Technician,55,Private,15,64,4,Voted
+104,22106,Married,32,16,Female,White,Not hispanic,Middle atlantic,Technician,47,Private,8,67,2,Did not vote
+1076,22097,Not married,25,15,Female,White,Not hispanic,South atlantic,Technician,33,Private,0,60,2,Did not vote
+600,21865,Married,62,15,Female,White,Not hispanic,W. sou. central,Technician,47,Private,12,64,2,Voted
+1538,21846,Married,57,12,Female,White,Not hispanic,South atlantic,Technician,55,Private,25,66,2,Did not vote
+1005,21365,Not married,29,15,Male,Black,Not hispanic,E. nor. central,Technician,48,Private,3,67,1,Voted
+999,21274,Not married,53,12,Female,White,Not hispanic,E. nor. central,Technician,47,Private,1,68,1,Voted
+195,20348,Not married,36,13,Female,White,Not hispanic,Pacific,Technician,47,Private,10,66,2,Voted
+353,20123,Married,53,13,Female,White,Not hispanic,E. nor. central,Technician,55,Private,2,67,2,Voted
+21,20028,Not married,30,14,Female,Black,Not hispanic,New england,Technician,58,Private,3,62,3,Did not vote
+2399,19685,Married,40,14,Female,White,Not hispanic,E. nor. central,Technician,35,Private,3,63,4,Did not vote
+625,19600,Not married,47,11,Female,White,Not hispanic,Middle atlantic,Technician,35,Private,6,67,1,Did not vote
+1430,19529,Married,34,16,Female,Other,Not hispanic,Middle atlantic,Technician,43,Government,2,65,2,Did not vote
+1588,19188,Married,41,0,Male,White,Not hispanic,South atlantic,Technician,46,Private,7,69,2,Did not vote
+14,18943,Married,40,11,Female,White,Not hispanic,Middle atlantic,Technician,35,Private,10,65,2,Voted
+1443,18857,Not married,34,13,Female,White,Not hispanic,Middle atlantic,Technician,69,Private,11,64,4,Voted
+1743,18488,Married,28,14,Female,White,Not hispanic,E. sou. central,Technician,48,Private,8,66,3,Voted
+1623,16671,Not married,46,12,Female,Black,Not hispanic,South atlantic,Technician,48,Private,8,65,2,Voted
+1359,16547,Married,34,16,Female,White,Not hispanic,E. sou. central,Technician,47,Private,5,64,3,Voted
+1102,16115,Not married,33,15,Female,White,Not hispanic,South atlantic,Technician,47,Private,1,67,3,Voted
+860,16050,Married,29,19,Female,White,Not hispanic,Pacific,Technician,49,Private,2,68,2,Voted
+1629,15164,Married,33,12,Female,White,Not hispanic,South atlantic,Technician,47,Private,6,65,2,Voted
+2519,14619,Married,34,14,Female,White,Not hispanic,New england,Technician,47,Private,0,63,6,Did not vote
+904,14266,Not married,34,12,Female,White,Hispanic,Mountain,Technician,51,Private,1,67,4,Voted
+574,14248,Married,54,14,Male,Other,Hispanic,W. sou. central,Technician,34,Private,3,66,2,Did not vote
+918,13633,Not married,38,14,Male,Black,Not hispanic,W. nor. central,Technician,46,Private,5,66,1,Voted
+2462,12051,Married,74,12,Male,White,Not hispanic,E. sou. central,Technician,43,Private,4,68,2,Voted
+2342,11999,Married,44,14,Female,Black,Not hispanic,W. nor. central,Technician,47,Government,0,64,2,Voted
+263,11867,Married,25,10,Female,Other,Hispanic,Pacific,Technician,60,Private,5,62,9,Voted
+141,11054,Not married,29,14,Female,White,Not hispanic,Middle atlantic,Technician,51,Private,6,70,4,Voted
+2178,9029,Not married,36,16,Female,Other,Hispanic,Pacific,Technician,52,Private,0,66,3,Voted
+343,8643,Married,50,18,Male,White,Not hispanic,E. nor. central,Technician,43,Private,12,68,2,Voted
+316,6585,Not married,25,12,Male,Black,Not hispanic,E. nor. central,Technician,18,Private,1,69,1,Did not vote
+2455,4226,Married,62,12,Female,Black,Not hispanic,E. sou. central,Technician,50,Private,14,67,2,Voted
+1780,4118,Married,31,14,Female,White,Not hispanic,South atlantic,Technician,47,Private,0,62,2,Did not vote
